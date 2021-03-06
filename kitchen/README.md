@@ -5,9 +5,9 @@
 
 Resides in location of current kitchen. Window wall moved 3' north. Pantry removed. Cabinets added to south side.
 
+<!--
 <a href="img/kitchen.jpg"><img src="img/kitchen.jpg" style="width:100%; max-width: 1200px"></a><br><br>
-
-<a href="img/kitchen-cabinets.jpg"><img src="img/kitchen-cabinets.jpg" style="width:100%; max-width: 1200px"></a><br>
+-->
 
 <a href="img/kitchen-full-cabinets.jpg"><img src="img/kitchen-full-cabinets.jpg" style="width:100%; max-width: 1200px"></a><br>
 
