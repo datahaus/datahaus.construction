@@ -51,7 +51,7 @@ Rough estimates for construction phases.  <a href="sketchup/721-Grant-Street.skp
 | **General Carpentry - Assemble shed, add reclaimed windows** | | |
 | Assemble shed reusing windows and roof from upstairs laundry area. | $1,000 | $1,500 |
 | &nbsp; | | |
-| **On both levels, remove kitchen ceiling plaster and one side of south wall. Remove wall above stairway** | | |
+| **On both levels, remove kitchen ceiling plaster and one side of south wall.** | | |
 | Park disposal truck at rear kitchen door for debris (plaster and wood slats). | $400 | $600 |
 | Remove ceiling plaster and south interior wall plaster in both kitchens.  | $600 | $800 |
 | Remove wall at back of closet above stairway. | $400 | $800 |

@@ -7,12 +7,22 @@ Using cashout after construction loan work completed.
 |---|---|---|
 |Around: 56 3/4" by 16 3/4" (Ideal interior: 18" or 17.5" by 57.25")<br>Outer edge of bricks: 58" by 19"| $300 | $800 |
 
+**Phase 2:** Demo wall above stairs. Open up wall and reinforce support column.  
+**Phase 4:** Add framework for shower in closet under stairs. Move existing stairway 5 feet.  
+
+| Add closet to existing center room upstairs | $800 | $1,200 |
+
+
+**Phase 6:** Framework for existing upstairs bathroom - move wall for sink. Open wall from kitchen side for toilet move.  
+**Phase 9:** Plumbing.  
+**Phase 10** Drywall in exisitng bathrooms.  
+**Phase 11:** Tile in downstairs shower. Tile in existing bathroom upstairs - shower around window. 
+
 ## Woodwork/Framing/Doors
 ||||
 |---|---|---|
 | **Add 2 closets** |||
 | Add closet by south porch entrance | $800 | $1,500 |
-| Add closet to existing center room upstairs | $800 | $1,200 |
 | &nbsp; |||
 | **Sliding Wall - 4 Door Panels** | | |
 | 4 large sliding barn doors or shoji screens between master bedroom and craft room (8'7" by 4'5") - Loren's uncle may build screens. Also considering other sliding wall options. | $1,200 | $3,000 |
