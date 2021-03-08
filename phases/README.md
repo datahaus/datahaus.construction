@@ -33,20 +33,24 @@ Rough estimates for construction phases.  <a href="sketchup/721-Grant-Street.skp
 
 ## Phase 2 - Move shed with crane. Interior Plaster Removal.
 
+<!--
+	Use railroad ties to mitgate errosion. Might take dirt to school or park.
+-->
 | Footings for Shed. Prepare to move lower laundry area. Weatherize roof exposed by removal. | Min | Max |
 |---|---|---|
-| Six stone bases for art shed using existing stone | $200 | $550 |
-| Six brick columns for shed using bricks from west side of trash storage area | $300 | $600 |
-| Shift enough dirt for tree-removal crane to enter backyard. Use railroad ties to mitgate errosion. Might take dirt to school or park. | $600 | $1,000 |
-| Remove top roof. Remove second floor windows and lower door. Separate rear structure from building. | $400 | $500 |
+| Six holes 18" or more deep for column bases of shed. Fill and compact with existing stone from rear driveway. | $200 | $550 |
+| Six block columns for shed. (Or use bricks from west side of trash storage area) | $300 | $600 |
+| Shift brick wall and fence so tree-removal crane may drive in backyard from elevated bed of truck.  | $600 | $1,000 |
+| Remove top roof, retain for shed. Remove second floor windows and lower door. Retain on north side of house. | $400 | $500 |
 | Weather-seal upper edge of house during removal. Reattach gutter. Cleanup. (Old siding will remain) | $200 | $800 |
-| Remove deck at top of exterior stairway to clear path for movement of shed and tree.  | $100 | $200 |
 | Add two 4x4s to reinforce open side of shed facing house. | $100 | $200 |
-| Fridge will be moved into small room downstairs, then moved upstairs after craftroom counter is added (phase 13) |||
+| Separate rear structure from building. Wrap lift-cords for crane. | $100 | $500 |
+| Remove deck at top of exterior stairway to clear path for movement of shed and tree.  | $100 | $200 |
+| Fridge will be moved into small room downstairs, or we may switch to smaller table to make space in kitchen. |||
 | &nbsp; | | |
 | **Small Crane and Truck** | | |
-| Move lower section of back laundry area as one unit using crane and truck bed. Cut large branches and cut down tree too close to other tree. | $2,000 | $4,000 |
-| Cut up remaining branches of downed tree (small) | $200 | $300 |
+| Move lower section of back laundry area, pivot, place onto truck parked on upper level. Drive to corner of lot and slide off shed. Cut large branches and cut down tree too close to other tree. | $2,000 | $4,000 |
+| After truck crew leaves, cut up branches of downed tree. Tree trunks may be retained for rear porch columns.  | $200 | $300 |
 | &nbsp; | | |
 | **General Carpentry - Assemble shed, add reclaimed windows** | | |
 | Assemble shed reusing windows and roof from upstairs laundry area. | $1,000 | $1,500 |
@@ -54,7 +58,6 @@ Rough estimates for construction phases.  <a href="sketchup/721-Grant-Street.skp
 | **On both levels, remove kitchen ceiling plaster and one side of south wall.** | | |
 | Park disposal truck at rear kitchen door for debris (plaster and wood slats). | $400 | $600 |
 | Remove ceiling plaster and south interior wall plaster in both kitchens.  | $600 | $800 |
-| Remove wall at back of closet above stairway. | $400 | $800 |
 | &nbsp; | | |
 | **Add more supports in basement, repoint bricks** | | |
 | Add cement bases and 3 to 5 metal poles in crawlspace to reinforce west side of house. | $600 | $800 |
@@ -73,17 +76,23 @@ Protecting large trees.  Tree to be removed is smaller - between these two at no
 <br>
 
 
+## Phase 3 - Remove plaster and wood slats in both kitchens
 
-## Phase 3 - Basement, Drainage and Brickwork
+||||
+|---|---|---|
+| Remove plaster/slats from ceiling in both kitchens. Leave kitchen pantry areas which contain water heater and water/gas supply pipes. Before removal, create envelope of plastic within room to prevent any dust from moving into house or falling between floor boards. Remove old pipes from within south wall. Remove in upstairs kitchen first. Tie slates in bundles to prevent puntruing contrator bags.<br>DO NOT remove either side of exterior two walls on both levels.<br>Carefully remove and retain door trim from interior walls. Also retain molding for reuse. | $800 | $1600 |
+
+## Phase 4 - Basement, Drainage and Brickwork
 
 <!--
-Basement Framing and Pour
 Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 2014) - Don't remember which house.
 -->
 
+This phase may begin immediately after phase 2.<br><br>
+
 | Prep for cement work |||
 |---|---|---|
-| Shift HVAC Units closer to house | $10 | $200 |
+| Shift HVAC Units closer to house | $25 | $200 |
 | Jackhammer existing north cement for AC pad.<br>Removed concrete will be used to fill void under kitchen bumpout. Store concrete on northeast side of house.  | $400 | $800 |
 | Remove remaining brick wall where trash resides. Retain bricks for reuse | $400 | $600 |
 | Remove existing slate patio stones and concrete. Retain state for reuse as back porch. Store under exterior stairway. Store concrete on northeast side of house. | $200 | $400 |
@@ -118,26 +127,8 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 <a href="../phases/img/basement/brickwork.jpg"><img src="../phases/img/basement/brickwork.jpg" style="width:100%; max-width:1200px"></a><br>
 <br><br>
 
-## Phase 4 - Move Interior Stairway
 
-May occur before phase 3 (basement) or before phase 7 (plumbing). [Project Details](initial)
 
-|  |||
-|---|---|---|
-| **Prep/Reinforce** | | |
-| Carefully remove bottom 5 or 6 treads. Retain for reuse. (Area below stairs is currently accessible from bathroom.) | | |
-| Place temporary half-tread stairs on side by rail. Start temporary treads near door and place elevated walkway 6'2" from ceiling.  | | |
-| Open up small portions of wall to determine if reinforcing uprights will be added | | |
-| Add reinforcement in walls. Might add additional cement footing under house | | |
-| Replace upstairs closet floor with angled stairway ceiling | | |
-| Open walls for access to pipes for upstairs tub drain | | |
-| Prep/Reinforce | $1,500 | $4,000 |
-| &nbsp; |||
-| **Add shower framework, Move Stairs, Resurface Treads** | | |
-| Add framework and basin for shower in closet under stairs. | $1,000 | $2,000 |
-| For narrow ceiling above shower entrance, use metal plate(s) welded as box. Waterprrof barrier. Fan vent will go through box. | $500 | $1,000 |
-| Move stairs. Resurface treads (Patch, sand, stain, seal). Might flip treads. | $1,000 | $2,000 |
-| &nbsp; |||
 
 
 ## Phase 5 - Move exterior AC units, add grate. Add basement door and window.

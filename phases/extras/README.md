@@ -7,10 +7,40 @@ Using cashout after construction loan work completed.
 |---|---|---|
 |Around: 56 3/4" by 16 3/4" (Ideal interior: 18" or 17.5" by 57.25")<br>Outer edge of bricks: 58" by 19"| $300 | $800 |
 
+
+## Convert Interior Stairway to Showers and Closets  
+
+May occur before phase 3 (basement) or before phase 7 (plumbing). [Project Details](initial)
+
+|  |||
+|---|---|---|
+| **Prep/Reinforce** | | |
+| Carefully remove bottom 5 or 6 treads. Retain for reuse. (Area below stairs is currently accessible from bathroom.) | | |
+| Place temporary half-tread stairs on side by rail. Start temporary treads near door and place elevated walkway 6'2" from ceiling.  | | |
+| Open up small portions of wall to determine if reinforcing uprights will be added | | |
+| Add reinforcement in walls. Might add additional cement footing under house | | |
+| Replace upstairs closet floor with angled stairway ceiling | | |
+| Open walls for access to pipes for upstairs tub drain | | |
+| Prep/Reinforce | $1,500 | $4,000 |
+| &nbsp; |||
+| **Add shower framework, Move Stairs, Resurface Treads** | | |
+| Add framework and basin for shower in closet under stairs. | $1,000 | $2,000 |
+| For narrow ceiling above shower entrance, use metal plate(s) welded as box. Waterprrof barrier. Fan vent will go through box. | $500 | $1,000 |
+| Move stairs. Resurface treads (Patch, sand, stain, seal). Might flip treads. | $1,000 | $2,000 |
+| &nbsp; |||
+
+
 **Phase 2:** Demo wall above stairs. Open up wall and reinforce support column.  
+
+
 **Phase 4:** Add framework for shower in closet under stairs. Move existing stairway 5 feet.  
 
-| Add closet to existing center room upstairs | $800 | $1,200 |
+| Remove mortar and slats - Living room wall, stairwell wall behind closet
+
+| Add temporary supports, and support columns at each side, remove living room wall uprights and add crossbeam.| $2,000 | $3,000 |
+
+| Add floor system in former stairway| $1,000 | $1,500 |
+| Remove wall at back of closet above stairway. | $400 | $800 |
 
 
 **Phase 6:** Framework for existing upstairs bathroom - move wall for sink. Open wall from kitchen side for toilet move.  
