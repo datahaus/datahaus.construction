@@ -61,11 +61,17 @@ A 3 to 6 month renovation using cash out once addition completed.
 ## Woodwork/Framing/Doors
 ||||
 |---|---|---|
-| **Add 2 closets** |||
-| Add closet by south porch entrance | $800 | $1,500 |
+| **Add closet** |||
+| Add closet and door by south porch entrance in new addition | $800 | $1,500 |
 | &nbsp; |||
 | **Sliding Wall - 4 Door Panels** | | |
 | 4 large sliding barn doors or shoji screens between master bedroom and craft room (8'7" by 4'5") - Loren's uncle may build screens. Also considering other sliding wall options. | $1,200 | $3,000 |
+
+<!--
+	Triple Barn Sliding Brown Doors 90"x96" with 14FT Rails
+	Currently unavailable
+	https://www.amazon.co.uk/Triple-Sliding-Planum-Chocolate-Frosted/dp/B07XM3ZKVK
+-->
 
 <br>
 <a href="../../bedroom/img/shoji/triple-barn-doors-amazon.jpg"><img src="../../bedroom/img/shoji/triple-barn-doors-amazon.jpg" style="max-height:400px"></a>
