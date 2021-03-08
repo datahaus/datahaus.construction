@@ -1,6 +1,7 @@
 
-# Extras
-Using cashout after construction loan work completed.
+# Home Renovation - 2022
+
+A 3 to 6 month renovation using cash out once addition completed.
 
 ## Chimney Cover
 ||||
@@ -8,45 +9,54 @@ Using cashout after construction loan work completed.
 |Around: 56 3/4" by 16 3/4" (Ideal interior: 18" or 17.5" by 57.25")<br>Outer edge of bricks: 58" by 19"| $300 | $800 |
 
 
-## Convert Interior Stairway to Showers and Closets  
+## Electrical
+||||
+|---|---|---|
+| Move all existing wires to new fuse boxes (located in basement and attic) | $2,000 | $5,000 |
+| Add 6 recessed lights in existing upstairs center bedroom (probably 3’ from corners). Dimmer switch on east wall. | $500 | $800 |
 
-May occur before phase 3 (basement) or before phase 7 (plumbing). [Project Details](initial)
+
+## Interior demolition, New support crossbeam in entrance room
 
 |  |||
 |---|---|---|
-| **Prep/Reinforce** | | |
-| Carefully remove bottom 5 or 6 treads. Retain for reuse. (Area below stairs is currently accessible from bathroom.) | | |
-| Place temporary half-tread stairs on side by rail. Start temporary treads near door and place elevated walkway 6'2" from ceiling.  | | |
-| Open up small portions of wall to determine if reinforcing uprights will be added | | |
-| Add reinforcement in walls. Might add additional cement footing under house | | |
-| Replace upstairs closet floor with angled stairway ceiling | | |
-| Open walls for access to pipes for upstairs tub drain | | |
-| Prep/Reinforce | $1,500 | $4,000 |
-| &nbsp; |||
-| **Add shower framework, Move Stairs, Resurface Treads** | | |
-| Add framework and basin for shower in closet under stairs. | $1,000 | $2,000 |
-| For narrow ceiling above shower entrance, use metal plate(s) welded as box. Waterprrof barrier. Fan vent will go through box. | $500 | $1,000 |
-| Move stairs. Resurface treads (Patch, sand, stain, seal). Might flip treads. | $1,000 | $2,000 |
-| &nbsp; |||
+| Remove wall above former stairway to reduce weight. Plywood and plastic to catch dust/debris. | $300 | $600 |
+| Open walls for access to pipes for upstairs tub drain | $200 | $400 |
+| Add crossbeam and uprights and open wall in front room by former stairway. Remove wall. | $2,000 | $3,000 |
+| Open wall between old TV room and small room. Open wall from small room to Ethan's bedroom | $400 | $800 |
 
+## Expand entrance room, new showers and closets  
 
-**Phase 2:** Demo wall above stairs. Open up wall and reinforce support column.  
+[Stairway removal project details](../initial)  
 
+[Bathroom wall photos](https://docs.google.com/document/d/1J0A26a7-Dvm3mscBRTSgxIeMxft11VZoRADT_unegkE/edit?usp=sharing)  
 
-**Phase 4:** Add framework for shower in closet under stairs. Move existing stairway 5 feet.  
-
-| Remove mortar and slats - Living room wall, stairwell wall behind closet
-
-| Add temporary supports, and support columns at each side, remove living room wall uprights and add crossbeam.| $2,000 | $3,000 |
-
+|  |||
+|---|---|---|
+| **Add floor system and shower frame** | | |
 | Add floor system in former stairway| $1,000 | $1,500 |
-| Remove wall at back of closet above stairway. | $400 | $800 |
+| Add framework and basin for shower in closet under stairs. | $800 | $1,200 |
+| Move or install new fan vent. | $200 | $400 |
+| Plumbing for showers, including pipe to attic. Hole in roof. | $1,200 | $3,000 |  
+| &nbsp; |||
+| **Drywall and Painting** | | |
+| Open cracks in plaster, patch | $500 | $800 |
+| Drywall in exisitng bathrooms. | $500| $800 |  
+| Paint/stain | $200 | $700 |
+| Paint existing bathrooms | $200 | $500 |
+| Add new lights upstairs shower and closets | $400 | $1,500 |
+| Lights in new downstairs shower | $200 | $600 |
+| Hookup for towel warming rack in downstairs bathroom | $200 | $300 |
+| &nbsp; |||
+| <b>Downstairs Bathroom</b> | | |
+| Add downstairs shower under stairway.<br>Install pivoting towel shelf and vent. | $3,000 | $4,000 |
+| &nbsp; |||
+| **Upstairs Bathroom** | | |
+| Add tub upstairs | $2,000 | $4,000 |
+| Upstairs bathroom recessed lights and vanity light | $400 | $700 |
+| Tile in downstairs shower | $800 | $1,200 |
+| Tile in upstairs shower existing bathroom | $800 | $1,200 |
 
-
-**Phase 6:** Framework for existing upstairs bathroom - move wall for sink. Open wall from kitchen side for toilet move.  
-**Phase 9:** Plumbing.  
-**Phase 10** Drywall in exisitng bathrooms.  
-**Phase 11:** Tile in downstairs shower. Tile in existing bathroom upstairs - shower around window. 
 
 ## Woodwork/Framing/Doors
 ||||
@@ -73,12 +83,7 @@ May occur before phase 3 (basement) or before phase 7 (plumbing). [Project Detai
 <a href="../../kitchen/img/undercounter-kitchen-refrigerator-drawers.jpg"><img src="../../kitchen/img/undercounter-kitchen-refrigerator-drawers.jpg" style="width:100%; max-width:400px"></a><br>
 <a href="https://www.google.com/search?q=fridge+under+counter&sxsrf=ALeKk02GU5j0dWZngOF80UpdOTu5UKlKqg:1614549505261&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi7u-7NyY3vAhWCxFkKHWrKDOwQ_AUoAnoECAcQBA&biw=1536&bih=885&dpr=2#imgrc=QSgLMOCidC_flM">more undercounter examples</a><br><br>
 
-## Electrical
-||||
-|---|---|---|
-| Move all existing wires to new fuse boxes (upstairs and down) | $2,000 | $5,000 |
-| 6 recessed lights in existing upstairs center bedroom (probably 3’ from corners). Dimmer switch on east wall. | $500 | $800 |
-| Light-well material within elevator shaft to redirect light from dormer roof window. | $1,000 | $3,000 |
+
 
 ## Solar Panels
 | New rebates are expected. List of [solar contractors in Georgia](https://www.solarpowerworldonline.com/2020-top-georgia-contractors/)  |||
@@ -121,6 +126,11 @@ May occur before phase 3 (basement) or before phase 7 (plumbing). [Project Detai
 | Exterior fireplace with barbecue grill within stone enclosure. | $3,000 | $8,000 |
 | Porch fireplace top with heat-transfer pipes connected to basement | $1,000 | $3,000 |
 | Existing front porches: Remove 2 extra columns by bricks and add 2x11 in ceiling. New ceilings with recessed lighting, dimmer. Add molding. Trim repairs.  | $800 | $3,000 |
+
+## Light-well
+||||
+|---|---|---|
+| Add light-well material within elevator shaft to redirect light from dormer roof window. | $1,000 | $3,000 |
 
 <br>
 <div id="totals"></div>

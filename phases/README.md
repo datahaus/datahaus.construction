@@ -59,8 +59,8 @@ Rough estimates for construction phases.  <a href="sketchup/721-Grant-Street.skp
 | Park disposal truck at rear kitchen door for debris (plaster and wood slats). | $400 | $600 |
 | Remove ceiling plaster and south interior wall plaster in both kitchens.  | $600 | $800 |
 | &nbsp; | | |
-| **Add more supports in basement, repoint bricks** | | |
-| Add cement bases and 3 to 5 metal poles in crawlspace to reinforce west side of house. | $600 | $800 |
+| **Add more supports in basement (with cemment footings and aluminum tops), repoint bricks** | | |
+| Add cement bases and 3 to 5 metal poles in crawlspace to reinforce west side of house, and column areas under side of kitchen and sides of front entrance room wall which will be removed. | $800 | $1000 |
 | Seal existing hole into crawl space after removing laundry area. Hole is about 2' tall by 3.5' wide. | $400 | $500 |
 | Repoint existing bricks to add stability prior to basement dig. Repair crawlspace vent openings, patch wood holes. | $1,400 | $2,000 |
 
@@ -166,28 +166,29 @@ Two exterior mini-split units could also be added during this phase.
 ||||
 |---|---|---|
 | **Framework** | | |
-| Framework including mass timber columns and attic roof<br>Reuse wood from west side of roof for northeast height increase | $20,000 | $50,000 |
-| Remove pulldown attic stairway while adding or extending a couple joists. | $1,000 | $2,000 |
+| Framework including mass timber columns and attic roof<br>Reuse wood from west side of roof for northeast roof height increase | $20,000 | $50,000 |
+| "Base Isolated" House - pads under mass timber columns to dampen earthquake vibration | $500 | $1,000 |
+| Remove pulldown attic stairway while adding or extending a couple joists. Temporarily reuse attic stairs within master bedroom. | $800 | $1,200 |
 | Create balcony by attaching extensions to joists over new jut-out. | $3,000 | $4,500 |
 | Porch railings for lower south porch | $2,000 | $3,000 |
-| Porch railings for upstaris west porch | $2,000 | $3,000 |
-| Porch railings for attic porch | $800 | $1,000 |
-| "Base Isolated" House - pads under mass timber columns to dampen earthquake vibration | $500 | $1,000 |
+| Porch railings for upstars west porch | $1,400 | $2,000 |
+| Porch railings for attic porch | $800 | $1,200 |
 | &nbsp; |||
 | **Roofing and Siding** |||
 | Roofing for entire house (white surface for solar, close existing attic vent) | $8,000 | $20,000 |
-| Insulation on addition | $1,500 | $3,000 | 
+| Insulation on addition | $1,500 | $4,000 | 
 | Siding on addition | $4,000 | $7,000 | 
 | &nbsp; |||
 | **Exterior Doors and Windows** |||
 | 2 exterior doors | $2,000 | $3,000 |
-| 30 windows, including window between attic and master bedroom.<br>Consider triple pane windows with argon fill - maybe on north side.| $18,000 | $25,000 |
+| Approximately 30 windows, including window between attic and master bedroom.<br>Consider triple pane windows with argon fill - maybe on north side.| $18,000 | $25,000 |
+| May move windows from kitchens to south side | | |
 | &nbsp; |||
-| **Convert window to temporary doorway** |||
-| Cut doorway at top of stairs by water heater | $400 | $500 |
+| **Open wall as temporary doorway** |||
+| Cut doorway at top of stairs under existing square window by water heater. Retain trim. | $400 | $500 |
 | &nbsp; |||
 | **North Storage Doors** |||
-| Strong metal door on north storage compartment | $400 | $1,000 |
+| Add strong metal door on north storage compartment | $400 | $1,000 |
 | &nbsp; |||
 |**Two Stairways (rough)**|||
 | 2 wooden staircases (rough) | $1,000 | $2,000 |
@@ -196,8 +197,7 @@ Two exterior mini-split units could also be added during this phase.
 | Remove old roof under newly added shed roof. | $1,000 | $2,000 |
 | &nbsp; |||
 | **Existing upstairs bathroom** | | |
-| Craft room walls and ceiling, move door frame to create bathroom sink area. Reinforce. | $1,000 | $2,000 |
-| And new waterproof window interior | $800 | $1,500 |
+| Craftroom walls and ceiling, move door frame to create bathroom sink area. Reinforce. | $1,000 | $2,000 |
 
 <br><br>
 <a href="../framework/img/framework-above.jpg"><img src="../framework/img/framework-above.jpg" style="width:100%; max-width: 1200px"></a><br>
@@ -224,12 +224,9 @@ To get quote from:<br>
 ## Phase 8 - Electric
 ||||
 |---|---|---|
-| Electrical work and lighting | $8,000 | $15,000 |
-| Separate fuse boxes for new electric work.  | $500 | $1,000 |
+| Electrical work and lighting | $8,000 | $18,000 |
+| Separate fuse boxes for new electric work. Located in basement and attic.  | $500 | $1,000 |
 | “Whole-house protector” $178 on Amazon for 140,000 amp Siemens FS140 Whole House Surge Protector. | $300 | $500 |
-| Add new lights in existing stairway, update existing switches to be two-way | $400 | $1,500 |
-| Lights in new downstairs shower | $200 | $600 |
-| Hookup for towel warming rack in downstairs bathroom | $200 | $300 |
 
 ## Phase 9 - Mini-splits, Plumbing
 | [Mini-split locations](../livingroom/#minisplits) |||
@@ -239,45 +236,33 @@ To get quote from:<br>
 | Mini-split in south livingroom wall | $2,000 | $2,800 |
 | Mini-split above upstairs bathroom | $2,000 | $2,800 |
 | &nbsp; |||
-| <b>Downstairs Bathroom</b> | | |
-| Add downstairs shower under stairway.<br>Install pivoting towel shelf and vent. | $3,000 | $4,000 |
-| &nbsp; |||
-| **Upstairs Bathroom** | | |
-| Move sink and toilet mount, new wall mounted toilet, add tub - [Wall photos](https://docs.google.com/document/d/1J0A26a7-Dvm3mscBRTSgxIeMxft11VZoRADT_unegkE/edit?usp=sharing) | $3,000 | $6,000 |
-| Upstairs bathroom recessed lights and vanity light in  | $400 | $700 |
-| &nbsp; |||
 | **Plumbing** | | |
-| Move gas line in attic under plywood. | $400 | $800 |
-| Move water heater to attic. Hook up water and gas lines | $700 | $900 |
-| Plumbing for sink in kitchen island. 4" Drain pipes already run to area. | $500 | $800 |
-| Plumbing for sink in craft room | $100 | $200 |
-| Plumbing for new upstairs bathrooms | $1,200 | $3,000 |  
-| Existing bathrooms - Portion of pipes for bathroom modifications, including pipe to attic. (We may wait to add hole in roof.) | $400 | $700 |
 | Install new incoming valve under house to increase pressure. | $300 | $600 |
+| Plumbing for new bathrooms, including pipe to attic. | $1,200 | $4,000 |  
+| Move gas line in attic under plywood. Holes through joists. | $400 | $800 |
+| Move water heater to attic. Hook up water and gas lines. | $700 | $900 |
+| Plumbing for sink in kitchen island. (4" Drain pipe already runs to kitchen. Add "T" to for new bathroom.) | $500 | $800 |
+| Plumbing for sink in craft room | $100 | $200 |
 
 ## Phase 10 - Drywall, Interior Trim, Interior Painting, Stairway Completion, Interior Doors
 ||||
 |---|---|---|
-| **Existing front stairway** | | |
-| Open cracks in existing front stairway, patch | $500 | $800 |
-| Drywall in exisitng bathrooms. | $500| $800 |  
-| Paint/stain existing front stairway | $200 | $700 |
-| Paint existing bathrooms | $200 | $500 |
-| &nbsp; |||
 | **Drywall and Painting** | | |
 | Expand window opening into doorway to upstairs laundry area | $200 | $800 |
-| Drywall new addition, kitchen and craft room | $3,000 | $5,000 |
+| Drywall new addition, kitchen and craftroom | $3,000 | $5,000 |
 | Interior painting | $2,000 | $5,500 |
 | Switch and plug covers | $400 | $800 |
 | &nbsp; |||
 | **New Stairways** | | |
-| Complete 2 stairways with treads and banisters | $2,000 | $3,500 |
+| Complete main stairway with treads and hand rail | $2,000 | $3,500 |
+| Carefully remove treads of existing front stairway for reuse as attic stairway. Resurface treads (Patch, sand, stain, seal). Might flip treads. | $800 | $1,200 |
+| Complete attic stairway with reused treads and new hand rail | $400 | $800 |
 | Build 3 step wood stairway and landing on south side of living room | $900 | $1,200 |
 | Build 3 step wood stairway to master bedroom | $500 | $800 |
 | Build 3 step wood stairway to new bathrooms | $400 | $600 |
 | &nbsp; |||
 | **Interior Trim and Door Carpentry** | | |
-| Build bathroom door frame from our wood trim collection. Hang door. Use 1 of 5 in attic | $500 | $800 |
+| Build bathroom door frame from our wood trim collection. Hang door. Use 1 of 5 doors in attic | $500 | $800 |
 | Hang additional doors currently in attic | $800 | $1,200 |
 | Large sliding bathroom door | $800 | $1,200 |
 | Door Hardware - Repair/upgrade doorknobs - Front door, bedroom, upstairs bathroom | $400 | $800 |
@@ -289,14 +274,12 @@ To get quote from:<br>
 | Disconnect old sink in craftroom. Retain garbage disposal. | $50 | $100 |
 | &nbsp; |||
 | **New bathroom and laundry area** | | |
-| South upstairs bathroom fixtures, shelf-cabinets and laundry area | $10,000 | $15,000 |
+| Fixtures in new bathroom, shelf-cabinets and laundry area | $10,000 | $15,000 |
 | [Mirror in front of window](https://www.houzz.com/photos/mirror-in-front-of-window-phbr0lbl-bl~l_51234) | $400 | $800 |
-| Cabinet-closet in master bedroom - north wall | $500 | $800 |
+| Wall cubbies in master bedroom - north wall | $500 | $800 |
 | &nbsp; |||
 | **Tile projects** | | |
-| Tile in downstairs shower | $800 | $1,200 |
-| Tile in upstairs shower existing bathroom | $800 | $1,200 |
-| Tile in upstairs shower new bathroom | $800 | $1,200 |
+| Tile in upstairs shower within new bathroom | $800 | $1,200 |
 | Tile in downstairs kitchen | $800 | $1,200 |
 | Tile in craftroom | $800 | $1,200 |
 
@@ -318,6 +301,7 @@ To get quote from:<br>
 | **Downstairs Kitchen -  Remove hallway walls, Ceiling, Extend floor 3'** | | |
 | Deactivate existing downstairs kitchen plumbing, electricity, remove counters and remove wall behind sink (reuse windows) | $400 | $500 |
 | Remove wall above doorway, remove south side of hall closet, add framework | $400 | $800 |
+| Sliding door on east side of kitchen. Reinforce wall | $800 | $1,500 |
 | Drywall kitchen ceiling | $400 | $800 |
 | Extend downstairs kitchen floor surface 3' into bumpout and resurface floor | $2,000 | $4,000 |
 | &nbsp; |||
