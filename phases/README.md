@@ -163,6 +163,11 @@ Two exterior mini-split units could also be added during this phase.
 
 
 ## Phase 6 - Framework, Roof, Insulation, Windows, Siding
+
+<!--
+	Expanded polystyrene (the white insulation made up of a lot of small beads bonded together) has an insulating value of 4 per inch thickness. Thus, if you used three one inch polystyrene boards together to make a wall that is 3 inches thick, the R value would be about 12, roughly 3 times better insulating than wood
+-->
+
 ||||
 |---|---|---|
 | **Framework** | | |
@@ -176,7 +181,8 @@ Two exterior mini-split units could also be added during this phase.
 | &nbsp; |||
 | **Roofing and Siding** |||
 | Roofing for entire house (white surface for solar, close existing attic vent) | $8,000 | $20,000 |
-| Insulation on addition | $1,500 | $4,000 | 
+| Insulation on addition | $1,500 | $3,800 | 
+| Vaccume insulated 1" panals behind cubbies - [kingspan.com R-value 37](https://www.kingspan.com/us/en-us/product-groups/insulation/insulation-boards/optim-r) | $500 | $800 | 
 | Siding on addition | $4,000 | $7,000 | 
 | &nbsp; |||
 | **Exterior Doors and Windows** |||
@@ -242,7 +248,7 @@ To get quote from:<br>
 | Move gas line in attic under plywood. Holes through joists. | $400 | $800 |
 | Move water heater to attic. Hook up water and gas lines. | $700 | $900 |
 | Plumbing for sink in kitchen island. (4" Drain pipe already runs to kitchen. Add "T" to for new bathroom.) | $500 | $800 |
-| Plumbing for sink in craft room | $100 | $200 |
+| Plumbing for sink in craftroom | $100 | $200 |
 
 ## Phase 10 - Drywall, Interior Trim, Interior Painting, Stairway Completion, Interior Doors
 ||||
@@ -296,7 +302,7 @@ To get quote from:<br>
 ||||
 |---|---|---|
 | **Craftroom counter and sink** | | |
-| Add new counter with sink in craftroom<br>(At this point, family will shift to using craftroom while downstairs kitchen is remodeled.) | $1,000 | $1,500 |
+| Add new "L" shapped counter and cabinets with sink in craftroom. Tall cabinets on south side of craftroom.<br>(At this point, family will shift to using craftroom while downstairs kitchen is remodeled.) | $1,800 | $3,500 |
 | &nbsp; |||
 | **Downstairs Kitchen -  Remove hallway walls, Ceiling, Extend floor 3'** | | |
 | Deactivate existing downstairs kitchen plumbing, electricity, remove counters and remove wall behind sink (reuse windows) | $400 | $500 |
@@ -306,7 +312,7 @@ To get quote from:<br>
 | Extend downstairs kitchen floor surface 3' into bumpout and resurface floor | $2,000 | $4,000 |
 | &nbsp; |||
 | **Downstairs Cabinetry** | | |
-| Downstairs kitchen - counter. cabinets including south wall, sink, hookup dishwasher | $7,000 | $15,000 |
+| Downstairs kitchen - "L" shapped counter. Cabinets including south wall, sink, hookup dishwasher | $7,000 | $15,000 |
 | Downstairs kitchen oven, either a hood or vent | $1,200 | $4,000 |
 | Cabinet-size freezer for new kitchen - Might place upstairs as island initially | $1,400 | $1,800 |
 | &nbsp; |||

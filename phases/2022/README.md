@@ -1,3 +1,4 @@
+[Home](../../) | [Phases](../)
 
 # Home Renovation - 2022
 
@@ -20,7 +21,7 @@ A 3 to 6 month renovation using cash out once addition completed.
 
 |  |||
 |---|---|---|
-| Remove wall above former stairway to reduce weight. Plywood and plastic to catch dust/debris. | $300 | $600 |
+| Remove wall above former stairway to reduce weight. Use plywood and plastic to catch dust/debris. | $300 | $600 |
 | Open walls for access to pipes for upstairs tub drain | $200 | $400 |
 | Add crossbeam and uprights and open wall in front room by former stairway. Remove wall. | $2,000 | $3,000 |
 | Open wall between old TV room and small room. Open wall from small room to Ethan's bedroom | $400 | $800 |
@@ -61,11 +62,17 @@ A 3 to 6 month renovation using cash out once addition completed.
 ## Woodwork/Framing/Doors
 ||||
 |---|---|---|
-| **Add 2 closets** |||
-| Add closet by south porch entrance | $800 | $1,500 |
+| **Add closet** |||
+| Add closet and door by south porch entrance in new addition | $800 | $1,500 |
 | &nbsp; |||
 | **Sliding Wall - 4 Door Panels** | | |
-| 4 large sliding barn doors or shoji screens between master bedroom and craft room (8'7" by 4'5") - Loren's uncle may build screens. Also considering other sliding wall options. | $1,200 | $3,000 |
+| 4 large sliding barn doors or shoji screens between master bedroom and craft room (8' 11 9/16" by 4'5". Total width: 17' 1.25") - Loren's uncle may build screens. Also considering other sliding wall options. | $1,200 | $3,000 |
+
+<!--
+	Triple Barn Sliding Brown Doors 90"x96" with 14FT Rails
+	Currently unavailable
+	https://www.amazon.co.uk/Triple-Sliding-Planum-Chocolate-Frosted/dp/B07XM3ZKVK
+-->
 
 <br>
 <a href="../../bedroom/img/shoji/triple-barn-doors-amazon.jpg"><img src="../../bedroom/img/shoji/triple-barn-doors-amazon.jpg" style="max-height:400px"></a>

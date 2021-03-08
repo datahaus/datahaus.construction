@@ -78,6 +78,18 @@ Genny Drash used Minwax Wood Finish (Penetrates, Stains & Seals) - Classic Grey 
 
 -->
 
+<a href="img/shelves/woodshelves1.jpg"><img src="img/shelves/woodshelves1.jpg" style="max-width:400px; max-height:400px; float:left"></a>
+<div style="clear:both"></div>
+
+<a href="img/shelves/pullout1.jpg"><img src="img/shelves/pullout1.jpg" style="max-width:400px; max-height:400px; float:left"></a>
+<a href="img/shelves/pullout2.jpg"><img src="img/shelves/pullout2.jpg" style="max-width:400px; max-height:400px; float:left"></a>
+<a href="img/shelves/pullout3.jpg"><img src="img/shelves/pullout3.jpg" style="max-width:400px; max-height:400px; float:left; margin-right:30px"></a>
+<a href="img/shelves/pullout4.jpg"><img src="img/shelves/pullout4.jpg" style="max-width:400px; max-height:400px; float:left"></a>
+<div style="clear:both"></div>
+
+<a href="img/shelves/closet1.jpg"><img src="img/shelves/closet1.jpg" style="max-width:400px; max-height:400px; float:left"></a><br>
+<div style="clear:both"></div>
+
 
 
 [Home](../) | [Phases](../phases/)
