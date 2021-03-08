@@ -72,7 +72,7 @@ Rear laundry areas to be removed and converted into art shed:<br>
 <a href="../phases/img/initial.jpg"><img src="../phases/img/initial.jpg" style="width:100%; max-width:1100px"></a>  
 <br>
 <a href="../exterior/img/rear/photo-southside-uphill.jpg"><img src="../exterior/img/rear/photo-southside-uphill.jpg" style="width:100%; max-width: 1100px"></a><br>
-Protecting large trees.  Tree to be removed is smaller - between these two at northwest corner of house.
+Protecting large trees.  Tree to be removed is smaller - between these two at northwest corner of house. New tree to be planted at rear northwest.
 <br>
 
 

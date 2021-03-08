@@ -11,7 +11,7 @@ Resides in location of current kitchen. Window wall moved 3' north. Pantry remov
 
 <a href="img/kitchen.jpg"><img src="img/kitchen.jpg" style="width:100%; max-width: 1200px"></a><br>
 
-Spot lights on walls (adjustable eyeball). 3 medium pendant lights over island. 
+Spot lights on walls (adjustable eyeball). Hookups for 2 or 3 pendant lights over island.
 No divider in sink. Concealed trash and recycling bin pull out to left of sink.  
 
 <!--“Bridge style” sink faucet - pipe connects faucets  -->
