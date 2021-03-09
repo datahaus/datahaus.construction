@@ -182,7 +182,7 @@ Two exterior mini-split units could also be added during this phase.
 | **Roofing and Siding** |||
 | Roofing for entire house (white surface for solar, close existing attic vent) | $8,000 | $20,000 |
 | Insulation on addition | $1,500 | $3,800 | 
-| Vaccuum insulated panals behind cubbies - [Optim-R 1" R37](https://www.kingspan.com/us/en-us/product-groups/insulation/insulation-boards/optim-r) | $500 | $800 | 
+| Vacuum Insulated Panels (VIP) behind cubbies - [Optim-R 1" R37](https://www.kingspan.com/us/en-us/product-groups/insulation/insulation-boards/optim-r) | $500 | $800 | 
 | Siding on addition | $4,000 | $7,000 | 
 | &nbsp; |||
 | **Exterior Doors and Windows** |||
