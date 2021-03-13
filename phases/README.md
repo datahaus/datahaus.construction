@@ -31,7 +31,7 @@ Rough estimates for construction phases.  <a href="sketchup/721-Grant-Street.skp
 | Basement plan finalized, submitted for estimates, subcontrator secured | $480 | $2,500 |
 | Ongoing Pre-Construction Planning, work with engineers to finalize material orders | $2,500 | $12,500 |
 
-## Phase 2 - Move shed with crane. Interior Plaster Removal.
+## Phase 2 - Move shed with crane.
 
 <!--
 	Use railroad ties to mitgate errosion. Might take dirt to school or park.
@@ -166,6 +166,13 @@ Two exterior mini-split units could also be added during this phase.
 
 <!--
 	Expanded polystyrene (the white insulation made up of a lot of small beads bonded together) has an insulating value of 4 per inch thickness. Thus, if you used three one inch polystyrene boards together to make a wall that is 3 inches thick, the R value would be about 12, roughly 3 times better insulating than wood
+
+
+	Contact for residential mass timber engineering recommendations
+	"E+M discussed design challenges with engineers that have successfully completed mass timber projects"
+	BRAD ELLINWOOD, PE
+	https://www.emstructural.com/
+	bellinwood@emstructural.com
 -->
 
 ||||
@@ -181,13 +188,13 @@ Two exterior mini-split units could also be added during this phase.
 | &nbsp; |||
 | **Roofing and Siding** |||
 | Roofing for entire house (white surface for solar, close existing attic vent) | $8,000 | $20,000 |
-| Insulation on addition | $1,500 | $3,800 | 
+| Insulation on addition. Expanding soy-based foam in closed-cell application with R-value around 6.5 per inch | $1,500 | $3,800 | 
 | Vacuum Insulated Panels (VIP) behind cubbies - [Optim-R 1" R37](https://www.kingspan.com/us/en-us/product-groups/insulation/insulation-boards/optim-r) | $500 | $800 | 
 | Siding on addition | $4,000 | $7,000 | 
 | &nbsp; |||
 | **Exterior Doors and Windows** |||
 | 2 exterior doors | $2,000 | $3,000 |
-| Approximately 30 windows, including window between attic and master bedroom.<br>Consider triple pane windows with argon fill - maybe on north side.| $18,000 | $25,000 |
+| Approximately 30 windows, including window between attic and master bedroom.<br>Consider triple pane windows with argon fill - maybe on north side. If we use Passive solar windows, only top half of upper south windows. | $18,000 | $25,000 |
 | May move windows from kitchens to south side | | |
 | &nbsp; |||
 | **Open wall as temporary doorway** |||
@@ -312,7 +319,7 @@ To get quote from:<br>
 | Extend downstairs kitchen floor surface 3' into bumpout and resurface floor | $2,000 | $4,000 |
 | &nbsp; |||
 | **Downstairs Cabinetry** | | |
-| Downstairs kitchen - "L" shapped counter. Cabinets including south wall, sink, hookup dishwasher | $7,000 | $15,000 |
+| Downstairs kitchen - "L" shapped counter, maybe quartz. Cabinets including south wall, sink, hookup dishwasher | $7,000 | $15,000 |
 | Downstairs kitchen oven, either a hood or vent | $1,200 | $4,000 |
 | Cabinet-size freezer for new kitchen - Might place upstairs as island initially | $1,400 | $1,800 |
 | &nbsp; |||

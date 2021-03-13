@@ -3,7 +3,7 @@
 Rainscreen In South, double pains are used rather than 3. Argon is optional.
 Ufactor applies to windows. Solar heat gain is important for windows in the north.
 We'll use a Double Stud Wall
-8 + 16 for R24 RatingBATT is insulation placed in wall
+8 + 16 for R24 Rating. BATT is insulation placed in wall
 
 Huber Zip System, manufactured in Commerce, GA
 https://www.huberwood.com/zip-system
@@ -23,6 +23,5 @@ Stiebel eltron water heater
 Point of use
 ERV - Energy Recovery Ventalator - Air doesn't mix with house
 
-Quartz counters - easier to match later
 
 
