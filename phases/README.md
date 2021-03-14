@@ -31,7 +31,7 @@ Rough estimates for construction phases.  <a href="sketchup/721-Grant-Street.skp
 | Basement plan finalized, submitted for estimates, subcontrator secured | $480 | $2,500 |
 | Ongoing Pre-Construction Planning, work with engineers to finalize material orders | $2,500 | $12,500 |
 
-## Phase 2 - Move shed with crane.
+## Phase 2 - Move shed and tree(s) with crane.
 
 <!--
 	Use railroad ties to mitgate errosion. Might take dirt to school or park.
@@ -45,7 +45,7 @@ Rough estimates for construction phases.  <a href="sketchup/721-Grant-Street.skp
 | Weather-seal upper edge of house during removal. Reattach gutter. Cleanup. (Old siding will remain) | $200 | $800 |
 | Add two 4x4s to reinforce open side of shed facing house. | $100 | $200 |
 | Separate rear structure from building. Wrap lift-cords for crane. | $100 | $500 |
-| Remove deck at top of exterior stairway to clear path for movement of shed and tree. Retain wood for shed deck. | $100 | $200 |
+| Remove deck at top of exterior stairway to clear path for movement of shed and tree. Retain trunks for shed deck columns. | $100 | $200 |
 | Fridge will be moved into small room downstairs, or we may switch to smaller table to make space in kitchen. |||
 | &nbsp; | | |
 | **Small Crane and Truck** | | |
