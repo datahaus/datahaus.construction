@@ -45,12 +45,12 @@ Rough estimates for construction phases.  <a href="sketchup/721-Grant-Street.skp
 | Weather-seal upper edge of house during removal. Reattach gutter. Cleanup. (Old siding will remain) | $200 | $800 |
 | Add two 4x4s to reinforce open side of shed facing house. | $100 | $200 |
 | Separate rear structure from building. Wrap lift-cords for crane. | $100 | $500 |
-| Remove deck at top of exterior stairway to clear path for movement of shed and tree.  | $100 | $200 |
+| Remove deck at top of exterior stairway to clear path for movement of shed and tree. Retain wood for shed deck. | $100 | $200 |
 | Fridge will be moved into small room downstairs, or we may switch to smaller table to make space in kitchen. |||
 | &nbsp; | | |
 | **Small Crane and Truck** | | |
 | Move lower section of back laundry area, pivot, place onto truck parked on upper level. Drive to corner of lot and slide off shed. Cut large branches and cut down tree too close to other tree. | $2,000 | $4,000 |
-| After truck crew leaves, cut up branches of downed tree. Tree trunks may be retained for rear porch columns.  | $200 | $300 |
+| After truck crew leaves, cut up branches of downed tree.<!--Tree trunks may be retained for rear north jasmin structure columns.-->| $200 | $300 |
 | &nbsp; | | |
 | **General Carpentry - Assemble shed, add reclaimed windows** | | |
 | Assemble shed reusing windows and roof from upstairs laundry area. | $1,000 | $1,500 |
