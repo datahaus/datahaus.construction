@@ -12,16 +12,17 @@ Dan uses calendly.com
 To do: 
 
 Floor Area Ratio (FAR) - 55%
+https://www.investopedia.com/terms/f/floor-area-ratio.asp
 
 Zero lot line variance - Add photos of neighbors on Bass
-
-
 -->
 # Construction Phases
 
 <br><br>
 
 Rough estimates for construction phases.  <a href="sketchup/721-Grant-Street.skp">Download SketchUp Model</a> 
+
+Check [BankRates](https://www.bankrate.com/mortgages/mortgage-rates/?mortgageType=Refinance&partnerId=br3&pid=br3&pointsChanged=false&refinanceCashOutAmount=0&refinanceLoanAmount=384000&refinanceLoanTerms=30yr&refinancePoints=All&refinancePropertyType=SingleFamily&refinancePropertyUse=PrimaryResidence&refinancePropertyValue=480000&searchChanged=false&ttcid&userCreditScore=740&userFha=false&userVeteranStatus=NoMilitaryService&zipCode=30315)
 
 ## Phase 1 - Pre-Construction Planning
 
@@ -38,14 +39,14 @@ Rough estimates for construction phases.  <a href="sketchup/721-Grant-Street.skp
 -->
 | Footings for Shed. Prepare to move lower laundry area. Weatherize roof exposed by removal. | Min | Max |
 |---|---|---|
-| Six holes 18" or more deep for column bases of shed. Fill and compact with existing stone from rear driveway. | $200 | $550 |
+| Six holes (18" or more deep) for column bases of shed. Fill and compact with existing stone from rear driveway. | $200 | $550 |
 | Six block columns for shed. (Or use bricks from west side of trash storage area) | $300 | $600 |
 | Shift brick wall and fence so tree-removal crane may drive in backyard from elevated bed of truck.  | $600 | $1,000 |
 | Remove top roof, retain for shed. Remove second floor windows and lower door. Retain on north side of house. | $400 | $500 |
 | Weather-seal upper edge of house during removal. Reattach gutter. Cleanup. (Old siding will remain) | $200 | $800 |
 | Add two 4x4s to reinforce open side of shed facing house. | $100 | $200 |
 | Separate rear structure from building. Wrap lift-cords for crane. | $100 | $500 |
-| Remove deck at top of exterior stairway to clear path for movement of shed and tree. Retain trunks for shed deck columns. | $100 | $200 |
+| If doing full addition, remove deck at top of exterior stairway to clear path for movement of shed and tree. Retain trunks for shed deck columns. | $100 | $200 |
 | Fridge will be moved into small room downstairs, or we may switch to smaller table to make space in kitchen. |||
 | &nbsp; | | |
 | **Small Crane and Truck** | | |
@@ -187,7 +188,7 @@ Two exterior mini-split units could also be added during this phase.
 | Porch railings for attic porch | $800 | $1,200 |
 | &nbsp; |||
 | **Roofing and Siding** |||
-| Roofing for entire house (white surface for solar, close existing attic vent) | $8,000 | $20,000 |
+| Roofing for entire house (white surface for solar, maybe [roof foam](https://dura-foam.com/products-services/recoating/uv-exposure/). Close existing attic vent) | $8,000 | $20,000 |
 | Insulation on addition. Expanding soy-based foam in closed-cell application with R-value around 6.5 per inch | $1,500 | $3,800 | 
 | Vacuum Insulated Panels (VIP) behind cubbies - [Optim-R 1" R37](https://www.kingspan.com/us/en-us/product-groups/insulation/insulation-boards/optim-r) | $500 | $800 | 
 | Siding on addition | $4,000 | $7,000 | 
@@ -316,7 +317,7 @@ To get quote from:<br>
 | Remove wall above doorway, remove south side of hall closet, add framework | $400 | $800 |
 | Sliding door on east side of kitchen. Reinforce wall | $800 | $1,500 |
 | Drywall kitchen ceiling | $400 | $800 |
-| Extend downstairs kitchen floor surface 3' into bumpout and resurface floor | $2,000 | $4,000 |
+| Extend downstairs kitchen hardwood floor surface 3' into bumpout and resurface floor with [PolyWhey® 3500 Satin](https://vermontnaturalcoatings.com/product/polywhey-3500-wood-floor-finish/) - PolyWhey 3500 has 65% less VOC content than the standard that most water-based finishes try to meet, while PolyWhey 2500 has 50% less. | $2,000 | $4,000 |
 | &nbsp; |||
 | **Downstairs Cabinetry** | | |
 | Downstairs kitchen - "L" shapped counter, maybe quartz. Cabinets including south wall, sink, hookup dishwasher | $7,000 | $15,000 |

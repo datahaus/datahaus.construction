@@ -97,11 +97,11 @@ A 3 to 6 month renovation using cash out once addition completed.
 |---|---|---|
 | Solar panels  | $20,000 | $30,000 |
 
-## Exterior Wood Structures
+## Exterior Structures
 ||||
 |---|---|---|
-| Wood structure for jasmin over exterior HVAC grate  | $1,500 | $2,000 |
-| Wood archway beside front porch. Wood archway on south side. | $800 | $1,300 |
+| Pergola wood structure for jasmin over exterior HVAC grate. Avoid blocking sun by using narrow overhead material. For longevity, need not be wood top. | $1,500 | $2,000 |
+| Wood archway beside front porch. Wood archway on south side. See [Sierra Vinyl Arbor](https://www.wayfair.com/outdoor/pdp/new-england-arbors-sierra-vinyl-arbor-zne1182.html) | $800 | $1,300 |
 
 <br>
 
