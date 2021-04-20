@@ -12,6 +12,8 @@
 <h1 style="clear:both">Master Bedroom</h1>
 <a href="../bedroom/img/bedroom.jpg"><img src="../bedroom/img/bedroom.jpg" style="width:100%; max-width: 1200px"></a>
 
+View beams of hip roof as alternative: [Mediterranean Life S1 E7](https://www.hulu.com/series/mediterranean-life-362c02c6-ecc8-4ce5-9f8e-19dca6d42424)  
+
 <div style="clear:both"></div>
 <br><br><br>
 
