@@ -2,21 +2,7 @@
 
 ## AC Units, Grey Water Storage
 
-### 5 sources of cold air
-<!--A means to avoid duct work applied at the Kendeda Living Building.  -->
 
-The home's two existing HVAC units will reside under a grate on the north side of the house. 
-
-An additonal attic mini split unit might drop air down the central elevator shaft.
-
-A small AC unit will also reside within the ceiling of the south facing porch.  
-
-<!-- Radiant pumping, chiller and air-handling unit. -->
-
-<!--
-Not using - Water Furnace Specs
-https://www.waterfurnace.com/literature/envision/im1008hn.pdf
--->
 
 <a href="../framework/img/hvac-and-greywater.jpg"><img src="../framework/img/hvac-and-greywater.jpg" style="width:100%; max-width:1200px"></a>  
 <br>

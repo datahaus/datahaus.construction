@@ -77,10 +77,15 @@ Also, [inicel](https://www.sweetcomposites.com/Minicel.html)<!-- From Rob Macks 
 Two outside units on the north side will serve 3 interior units. 
 
 - The master bedroom above south bathrooms. 
-- The wall by south porch. (45 feet)  
+- The wall by south porch. (55 feet)  
 - The downstairs kitchen above cabinets.  
 
 <!-- the unfinished attic -->   
+
+
+Two existing exterion HVAC units will also reside under a grate on the north side of the house. 
+
+
 
 [Mitsubishi One-Way Ceiling Cassette](https://youtu.be/9qUhomNmfLs?t=551)  
 
@@ -102,11 +107,11 @@ Air movement volumes delivered by a mini-split give no advantage to putting near
 
 STEP Warmfloor gives 2.5 times more heat output than cable systems, 2.08 times more heat output than hydronic systems, and up to 60% more efficient than conventional forced air systems.  
 
-https://www.warmfloor.com/green-technology/sustainable-technology/
+[https://www.warmfloor.com/green-technology/sustainable-technology/](https://www.warmfloor.com/green-technology/sustainable-technology/)
 
 It could be placed under wood to create our gym-livingroom floor, rather than pouring more concrete on the hollow core slabs for hydronics. A thermal barrier between the basement slab and the element would add efficiency for a basement install. In the livingroom we would heat the slab during the day to radiate throughout the night, so no thermal barrier would be used under the livinging room floor surface.  
 
-https://youtu.be/q2c8cLrZYkc?t=184
+[https://youtu.be/q2c8cLrZYkc?t=184](https://youtu.be/q2c8cLrZYkc?t=184)
 
 A thermal barrier between the slab and the element adds efficiency  
 

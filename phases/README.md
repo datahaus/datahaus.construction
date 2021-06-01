@@ -1,7 +1,5 @@
 
-<a href="../"><img src="../exterior/img/southwest.jpg" style="width:100%; max-width: 350px; float:right"></a>
-
-[721 Grant Street Addition](../)
+[721 Grant Street](../)
 
 <!--
 Renovation Construction Loan
@@ -20,7 +18,7 @@ Zero lot line variance - Add photos of neighbors on Bass
 
 <br><br>
 
-Rough estimates for construction phases.  <a href="sketchup/721-Grant-Street.skp">Download SketchUp Model</a> 
+<a href="sketchup/721-Grant-Street.skp">Download SketchUp Model</a> 
 
 [Rate Trends (Freddie Mac)](http://www.freddiemac.com/pmms/) 
 and [BankRates](https://www.bankrate.com/mortgages/mortgage-rates/?mortgageType=Refinance&partnerId=br3&pid=br3&pointsChanged=false&refinanceCashOutAmount=0&refinanceLoanAmount=384000&refinanceLoanTerms=30yr&refinancePoints=All&refinancePropertyType=SingleFamily&refinancePropertyUse=PrimaryResidence&refinancePropertyValue=480000&searchChanged=false&ttcid&userCreditScore=740&userFha=false&userVeteranStatus=NoMilitaryService&zipCode=30315)
@@ -70,12 +68,6 @@ and [BankRates](https://www.bankrate.com/mortgages/mortgage-rates/?mortgageType=
 
 
 
-Rear laundry areas to be removed and converted into art shed:<br>
-<a href="../phases/img/initial.jpg"><img src="../phases/img/initial.jpg" style="width:100%; max-width:1100px"></a>  
-<br>
-<a href="../exterior/img/rear/photo-southside-uphill.jpg"><img src="../exterior/img/rear/photo-southside-uphill.jpg" style="width:100%; max-width: 1100px"></a><br>
-Protecting large trees.  Tree to be removed is smaller - between these two at northwest corner of house. New tree to be planted at rear northwest.
-<br>
 
 
 ## Phase 3 - Remove plaster and wood slats in both kitchens
@@ -159,10 +151,6 @@ Two exterior mini-split units could also be added during this phase.
 <a href="../phases/img/AC/AC-units.jpg"><img src="../phases/img/AC/AC-units.jpg" style="width:100%; max-width:1200px"></a>  
 <br><br>
 
-**Basement Details**  
-<a href="../phases/img/basement/basement-details.jpg"><img src="../phases/img/basement/basement-details.jpg" style="width:100%; max-width:1200px"></a><br>
-<br><br>
-
 
 ## Phase 6 - Framework, Roof, Insulation, Windows, Siding
 
@@ -215,7 +203,7 @@ Two exterior mini-split units could also be added during this phase.
 | Craftroom walls and ceiling, move door frame to create bathroom sink area. Reinforce. | $1,000 | $2,000 |
 
 <br><br>
-<a href="../framework/img/framework-above.jpg"><img src="../framework/img/framework-above.jpg" style="width:100%; max-width: 1200px"></a><br>
+<a href="../framework/img/framework-west.jpg"><img src="../framework/img/framework-west.jpg" style="width:100%; max-width: 1200px"></a><br>
 
 <br><br>
 <a href="../exterior/img/west.jpg"><img src="../exterior/img/west.jpg" style="width:100%; max-width: 1200px"></a><br>
@@ -301,10 +289,10 @@ To get quote from:<br>
 <br><br>
 <a href="../kitchen/#craftroom">Craftroom Images</a><br>
 <br><br>
-<a href="../floorplan/img/second-3D-before.jpg"><img src="../floorplan/img/second-3D-before.jpg" style="width:100%; max-width:1200px"></a><br>
+<a href="../floorplan/img/layout-2nd.jpg"><img src="../floorplan/img/layout-2nd.jpg" style="width:100%; max-width:1200px"></a><br>
 
 <br><br>
-<a href="../floorplan/img/second-3D.jpg"><img src="../floorplan/img/second-3D.jpg" style="width:100%; max-width:1200px"></a><br>
+<a href="../floorplan/img/layout-2nd-close.jpg"><img src="../floorplan/img/layout-2nd-close.jpg" style="width:100%; max-width:1200px"></a><br>
 
 
 ## Phase 12 - Craftroom and Kitchen - Counters and Cabinets

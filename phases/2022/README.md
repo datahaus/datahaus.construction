@@ -58,12 +58,14 @@ A 3 to 6 month renovation using cash out once addition completed.
 | Tile in downstairs shower | $800 | $1,200 |
 | Tile in upstairs shower existing bathroom | $800 | $1,200 |
 
+<!--
 ## Exterior Spiral Stairway
 ||||
 [Mylen Reroute 60"D](https://www.stairwayshop.com/mylen-reroute-60-d-primed-steel-spiral-stairways.html)
 
 <br>
 <img src="../../exterior/img/spiral-stairway.jpg"><br>
+-->
 
 ## Woodwork/Framing/Doors
 ||||
