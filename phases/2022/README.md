@@ -143,7 +143,7 @@ A 3 to 6 month renovation using cash out once addition completed.
 ## Light-well
 ||||
 |---|---|---|
-| Add light-well material within elevator shaft to redirect light from dormer roof window. | $1,000 | $3,000 |
+| Add light-well material within elevator shaft to redirect light from south attic window. | $1,000 | $3,000 |
 
 <br>
 <div id="totals"></div>

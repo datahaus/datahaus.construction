@@ -7,11 +7,10 @@
 
 The home's two existing HVAC units will reside under a grate on the north side of the house. 
 
-An attic AC unit will connect to ducts and the central elevator shaft.
+An additonal attic mini split unit might drop air down the central elevator shaft.
 
 A small AC unit will also reside within the ceiling of the south facing porch.  
- 
-Chiller/freezer unit in the basement will pump cold air up a duct within the elevator shaft.  
+
 <!-- Radiant pumping, chiller and air-handling unit. -->
 
 <!--
