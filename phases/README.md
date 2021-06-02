@@ -1,5 +1,5 @@
+[721 Grant Street](../) - <a href="sketchup/721-Grant-Street.skp">Download SketchUp Model</a> 
 
-[721 Grant Street](../)
 
 <!--
 Renovation Construction Loan
@@ -16,26 +16,27 @@ Zero lot line variance - Add photos of neighbors on Bass
 -->
 # Construction Phases
 
+- [Construction Loan](#planning) - Planning, Bathroom, Basement, Kitchen Bumpout
+- [Upstairs work with Cashout Financing](../upstairs/) - Straighten Stairway, Craft Room, Upstairs Bathroom
+- [Ongoing Projects](../projects/) - Solar
+- [Full Addition](../projects/) - Master bedroon, Master bathroom, Attic Shed roofs
 
-<a href="sketchup/721-Grant-Street.skp">Download SketchUp Model</a> / Check [Rate Trends (Freddie Mac)](http://www.freddiemac.com/pmms/) 
-and [BankRates](https://www.bankrate.com/mortgages/mortgage-rates/?mortgageType=Refinance&partnerId=br3&pid=br3&pointsChanged=false&refinanceCashOutAmount=0&refinanceLoanAmount=384000&refinanceLoanTerms=30yr&refinancePoints=All&refinancePropertyType=SingleFamily&refinancePropertyUse=PrimaryResidence&refinancePropertyValue=480000&searchChanged=false&ttcid&userCreditScore=740&userFha=false&userVeteranStatus=NoMilitaryService&zipCode=30315)
 
+## Planning
 
-## Pre-Construction Planning
-
-- Prepare and submit plans to city. Advise on adding dimensions to Sketchup work where practical.
+- Prepare and submit plans to city. Advise on using Sketchup where practical.
 
 
 | | Min | Max |
 |---|---|---|
-| Ongoing Pre-Construction Planning, work with engineers to finalize material orders | $2,500 | $12,500 |
+| Ongoing pre-construction Planning. Work with engineers to finalize material orders. | $2,500 | $12,500 |
 
 ## New Downstairs Bathroom
 
 - Located in former dining room on south side of house  
+- Opening walls and ceiling for lighting and electric  
 
-
-<a href="../bathrooms/img/downstairs/downstairs-bathroom.jpg"><img src="../bathrooms/img/downstairs/downstairs-bathroom.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
+<a href="../bathroom/img/downstairs/downstairs-bathroom.jpg"><img src="../bathroom/img/downstairs/downstairs-bathroom.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
 
 | | Min | Max |
 |---|---|---|
@@ -220,4 +221,9 @@ Two exterior mini-split units could also be added during this phase.
 
 
 
+<br>
+<div id="totals"></div>
+<br>
 
+---
+[Upstairs work with Cashout Financing](../upstairs/) 
