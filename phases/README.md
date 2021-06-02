@@ -39,11 +39,11 @@ and [BankRates](https://www.bankrate.com/mortgages/mortgage-rates/?mortgageType=
 
 | | Min | Max |
 |---|---|---|
-| New Bathroom - We already have new tub and toilet to use | $4,000 | $10,000 |
+| New Bathroom - We already have a new almond tub and almond toilet to use. Tub needs to be set in tile or wood. | $4,000 | $10,000 |
 
 ## Relocate Gas Line
 
-Gas pipe currently runs through kitchen pantries.  We will reverse the line that already continues above water heater to funace.  
+Gas pipe currently runs through kitchen pantries.  We will send gas to the water heater from above by reversing the flow of the pipe that currently goes to funace in the attic.  
 
 - Work can coincide with plubing for new bathroom.  
 - Loren will open south wall in kitchens for new pipe. 
@@ -142,6 +142,7 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 
 <a href="../exterior/img/rear/bumpout.jpg"><img src="../exterior/img/rear/bumpout.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
 
+<a href="../exterior/img/rear/patio-frame.jpg"><img src="../exterior/img/rear/patio-frame.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
 
 ## Downstairs Kitchen
 
@@ -161,6 +162,9 @@ Adding the 4' basement stairway will occur after the adjacent basement wall is a
 Upstairs, the small window beside the water heater will be cut into a door to provide access to the 3' bumpout area. We'll use the cashout next year to work on the second floor craft area (former second kitchen) - this later work will include upstairs wall removal, craft room ceiling. upstairs counter and cabinets, closets and moving the water heater below the stairway, which will become a straight stairway into the upstairs craft room.
 
 
+
+||||
+|---|---|---|
 | **On both levels, remove kitchen ceiling plaster and one side of south wall.** | | |
 | Park disposal truck at rear kitchen door for debris (plaster and wood slats). | $400 | $600 |
 | Remove ceiling plaster and south interior wall plaster in both kitchens.  | $600 | $800 |
