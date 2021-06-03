@@ -90,9 +90,7 @@ Compression of north wall causing plaster to bulge:
 ## Porch Updates
 ||||
 |---|---|---|
-| Exterior fireplace with barbecue grill within stone enclosure. | $3,000 | $8,000 |
-| Porch fireplace top with heat-transfer pipes connected to basement | $1,000 | $3,000 |
-| Existing front porches: Remove 2 extra columns by bricks and add 2x11 in ceiling. New ceilings with recessed lighting, dimmer. Add molding. Trim repairs.  | $800 | $3,000 |
+| Existing front porches:  New ceilings with recessed lighting, dimmer. Remove 2 extra columns by bricks and add 2x11 in ceiling. Add/update molding and trim where damaged or missing.  | $800 | $3,000 |
 
 ## Light-well
 ||||

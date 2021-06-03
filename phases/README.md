@@ -16,10 +16,10 @@ Zero lot line variance - Add photos of neighbors on Bass
 -->
 # Construction Phases
 
-- [Construction Loan](#planning) - Planning, Bathroom, Basement, Kitchen Bumpout
-- [Upstairs work with Cashout Financing](../upstairs/) - Straighten Stairway, Craft Room, Upstairs Bathroom
+- [Construction Loan](#planning) - Planning, Add Downstairs Bathroom, Basement, Kitchen Bumpout
+- [Upstairs with Cashout Financing](../upstairs/) - Straighten Stairway, Upstairs Bathroom
 - [Ongoing Projects](../projects/) - Solar
-- [Full Addition](../projects/) - Master bedroon, Master bathroom, Attic Shed roofs
+- [Full Addition](../addition/) - Master Bedroon, Master Bathroom, Attic Shed Roofs
 
 
 ## Planning
@@ -31,50 +31,44 @@ Zero lot line variance - Add photos of neighbors on Bass
 |---|---|---|
 | Ongoing pre-construction Planning. Work with engineers to finalize material orders. | $2,500 | $12,500 |
 
+## Relocate Gas Pipe
+
+Gas pipe currently runs through kitchen pantries.  
+Work can coincide with plumbing for new downstairs bathroom.  
+ 
+- Loren will open downstairs coat closet nouth wall for new pipe. 
+- Pipe will reside in repositioned bathroom wall upstairs.
+- Run pipe under plywood in attic to furnace. Loren will drill holes beforehand.
+- Send gas to the water heater from above by reversing the flow of the pipe that currently goes to furnace in the attic.  
+- Cap off former gas link at water heater.  
+- Also remove unused gas pipe under porch to create more usable storage space.  
+<br>
+
+Loren will build new wall for new pipe. Located by sewer air pipe and refridgerator vent:<br><br>
+<a href="../bathroom/upstairs/img/upstairs-gas-pipe.jpg"><img src="../bathroom/upstairs/img/upstairs-gas-pipe.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
+
+
+
+
 ## New Downstairs Bathroom
 
 - Located in former dining room on south side of house  
 - Opening walls and ceiling for lighting and electric  
 
-<a href="../bathroom/img/downstairs/downstairs-bathroom.jpg"><img src="../bathroom/img/downstairs/downstairs-bathroom.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
+<a href="../bathroom/downstairs/img/downstairs-bathroom.jpg"><img src="../bathroom/downstairs/img/downstairs-bathroom.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
 
 | | Min | Max |
 |---|---|---|
 | New Bathroom - We already have a new almond tub and almond toilet to use. Tub needs to be set in tile or wood. | $4,000 | $10,000 |
-
-## Relocate Gas Line
-
-Gas pipe currently runs through kitchen pantries.  We will send gas to the water heater from above by reversing the flow of the pipe that currently goes to funace in the attic.  
-
-- Work can coincide with plubing for new bathroom.  
-- Loren will open south wall in kitchens for new pipe. 
-- Install new gas line in kitchen wall. 
-- Run pipe under plywood in attic to furnace. Loren will drill holes beforehand.
-
+| Tile | $1,000 | $2,000 |
+| Towel warming rack | $300 | $500 |
 
 ## Prior to Basement Dig
 
-Loren will take care of the following:  
+Loren will:  
 
-Remove the rear laundry area before basement work.  
-Remove the downstairs kitchen plaster, slats and ceiling.  
-Remove one of two trees that are close together, following approval by city.  
-
-<a href="../phases/img/basement/initial.jpg"><img src="../phases/img/basement/initial.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
-
-
-
-
-## Remove plaster and wood slats in downstairs kitchen
-
-Loren will do the following:  
-
-Remove plaster/slats from ceiling in both kitchens. Leave kitchen pantry areas which contain water heater and water/gas supply pipes. Before removal, create envelope of plastic within room to prevent any dust from moving into house or falling between floor boards. Remove old pipes from within south wall. Remove in upstairs kitchen first. Tie slats in bundles to prevent puncturing contrator bags.<br>DO NOT remove either side of exterior two walls on both levels.<br>Carefully remove and retain door trim from interior walls. Also retain molding for reuse.
-
-<!--
-	| $800 | $1600 |
--->
-
+Remove the rear laundry areas.  
+Remove one of two trees that are close together, following approval by city. Using climbing harness to remove limbs.  
 
 
 
@@ -83,6 +77,9 @@ Remove plaster/slats from ceiling in both kitchens. Leave kitchen pantry areas w
 <!--
 Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 2014) - Don't remember which house.
 -->
+
+Before dig:<br>
+<a href="../phases/img/basement/initial.jpg"><img src="../phases/img/basement/initial.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
 
 <br><br>
 <a href="../phases/img/basement.jpg"><img src="../phases/img/basement.jpg" style="width:100%; max-width:1200px"></a><br>
@@ -95,15 +92,14 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 
 | Prep for cement work |||
 |---|---|---|
-| Shift HVAC Units closer to house | $25 | $200 |
-| Jackhammer existing north cement for AC pad.<br>Removed concrete will be used to fill void under kitchen bumpout. Store concrete on northeast side of house.  | $400 | $800 |
-| Remove remaining brick wall where trash resides. Retain bricks for reuse | $400 | $600 |
-| Remove existing slate patio stones and concrete. Retain state for reuse as back porch. Store under exterior stairway. Store concrete on northeast side of house. | $200 | $400 |
+| Remove freon and detach two AC units (in the fall) | $25 | $200 |
+| Jackhammer existing north cement for AC pad.<br>Removed concrete might be used to fill void under kitchen bumpout. Store concrete on northeast side of house.  | $400 | $800 |
+| Remove brick wall where trash cans reside. Retain bricks for reuse. | $400 | $600 |
+| Remove slate patio stones and concrete. Retain state for filler or reuse. Store under exterior stairway. Store concrete on northeast side of house. | $200 | $400 |
 | &nbsp; | | |
 | **Basement/Cement Work** | | |
-| Pour cement pad for AC Units (small) | $600 | $800 |
-| Rear porch 3 cement pedestal bases (small) | $200 | $400 |
-| Basement Dig, Frame and Pour - includes sump pump and a few feet of drain pipe  | $10,000 | $30,000 |
+| Pour cement pad for AC Units | $600 | $800 |
+| Basement Dig, Frame and Pour - includes sump pump and drain pipes | $10,000 | $30,000 |
 | North bump-out foundation cement pour at same time | $2,000 | $4,000 |
 | Cemeent drain by porch with grate to catch leaves | $400 | $500 |
 | Drains from brick porch area down to street below entrance, drain going east next to short brick wall | $800 | $1,500
@@ -145,6 +141,25 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 
 <a href="../exterior/img/rear/patio-frame.jpg"><img src="../exterior/img/rear/patio-frame.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
 
+Upstairs, the small window beside the water heater will be cut into a door to provide access to the 3' bumpout area.  
+
+
+## Remove plaster and wood slats in downstairs kitchens
+
+Loren will:  
+
+Remove plaster and slats from ceiling in downstairs kitchen.  
+Remove old gas and water pipes.  
+Before removal, create envelope of plastic within room to prevent any dust from moving into house or falling between floor boards. Remove old pipes from within south wall of kitchen.  
+Tie slats in bundles to prevent puncturing contrator bags.  
+WILL NOT yet remove either side of exterior two walls on both levels.  
+Carefully remove and retain door trim and baseboards from interior walls.  
+
+
+Upstairs wall removal, craft room ceiling. upstairs counter and cabinets, closets.
+
+Move water heater either into attic or below stairway.
+
 ## Downstairs Kitchen
 
 - Downstairs kitchen, counters and cabinets
@@ -160,7 +175,7 @@ Adding the 4' basement stairway will occur after the adjacent basement wall is a
 
 
 
-Upstairs, the small window beside the water heater will be cut into a door to provide access to the 3' bumpout area. We'll use the cashout next year to work on the second floor craft area (former second kitchen) - this later work will include upstairs wall removal, craft room ceiling. upstairs counter and cabinets, closets and moving the water heater below the stairway, which will become a straight stairway into the upstairs craft room.
+
 
 
 

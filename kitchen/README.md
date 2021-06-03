@@ -57,13 +57,13 @@ Home Depot Minwax White wash -
 
 
 -->
-<a name="craftroom"></a>
+<div id="craftroom"></div>
 
 # Craft Room
 
 Designed for conversion to an upstairs guest kitchen by adding undercounter drawer-refrigerator.<br><br>
 
-<a href="img/craftroom.jpg"><img src="img/craftroom.jpg" style="width:100%; max-width: 1200px"></a><br><br>
+<a href="../upstairs/img/craft.jpg"><img src="../upstairs/img/craft.jpg" style="width:100%; max-width: 1200px"></a><br><br>
 
 <a href="img/craftroom.png"><img src="img/craftroom.png" style="width:100%; max-width: 1200px"></a><br><br>
 

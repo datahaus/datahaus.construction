@@ -1,3 +1,7 @@
+[Home](../) | [Phases](../phases/)
+
+# Full Addition
+
 ## Phase 6 - Framework, Roof, Insulation, Windows, Siding
 
 <!--
@@ -284,3 +288,9 @@ Waterflow at porch - Six levels of drain protection:
 <a href="../exterior/img/waterflow.jpg"><img src="../exterior/img/waterflow.jpg" style="width:100%; max-width:1200px"></a> 
 
 ---
+
+## Master Bathroom
+
+<a href="../bathroom/samples/img/mirror-window-rect.jpg"><img src="../bathroom/samples/img/mirror-window-rect.jpg" style="width:100%; max-width:400px"></a><br>
+
+[Home](../) | [Phases](../phases/)
