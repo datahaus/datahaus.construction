@@ -16,10 +16,13 @@ Zero lot line variance - Add photos of neighbors on Bass
 -->
 # Construction Phases
 
-- [Construction Loan](#planning) - Planning, Add Downstairs Bathroom, Basement, Kitchen Bumpout
-- [Upstairs with Cashout Financing](../upstairs/) - Straighten Stairway, Upstairs Bathroom
-- [Ongoing Projects](../projects/) - Solar
-- [Full Addition](../addition/) - Master Bedroon, Master Bathroom, Attic Shed Roofs
+- 2021 - [Bathroom, Basement, Kitchen - Construction Loan](#planning) - Planning, add downstairs bathroom, basement, kitchen bumpout
+- 2022 - [Upstairs Craft Room and Bathroom - Cashout Financing](../upstairs/) - Straighten stairway, upstairs bathroom, create downstairs pantry 
+- 2022 - [Patio - Cashout Financing](../patio/) - Mass timber over patio  
+- 2023 - [Ongoing Projects](../projects/) - Solar, move downstais electric box to basement
+- 2027 - [Full Addition](../addition/) - Master bedroon, master bathroom, attic shed roofs
+
+We may condense timeline if material planning and approval goes quickly.  
 
 
 ## Planning
@@ -42,81 +45,154 @@ Work can coincide with plumbing for new downstairs bathroom.
 - Send gas to the water heater from above by reversing the flow of the pipe that currently goes to furnace in the attic.  
 - Cap off former gas link at water heater.  
 - Also remove unused gas pipe under porch to create more usable storage space.  
+
+
+| | Min | Max |
+|---|---|---|
+| Relocating gas line | $800 | $1,800 |
+
 <br>
 
-Loren will build new wall for new pipe. Located by sewer air pipe and refridgerator vent:<br><br>
+Includes building portion of new wall for new gas pipe. Located by sewer air pipe and refridgerator vent:<br><br>
 <a href="../bathroom/upstairs/img/upstairs-gas-pipe.jpg"><img src="../bathroom/upstairs/img/upstairs-gas-pipe.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
+<br>
 
-
+<a href="../bathroom/upstairs/img/upstairs-bathroom.jpg"><img src="../bathroom/upstairs/img/upstairs-bathroom.jpg" style="width:100%; max-width: 300px"></a><br><br> 
+Upstairs bathroom reconfigure in [upstairs projects phase](../upstairs).  
 
 
 ## New Downstairs Bathroom
 
 - Located in former dining room on south side of house  
 - Opening walls and ceiling for lighting and electric  
+- Shower doors should slide over to front of toilet to allow for full access to side of tub.  
+- Panel on south side of tub should pivot to wall.  
 
 <a href="../bathroom/downstairs/img/downstairs-bathroom.jpg"><img src="../bathroom/downstairs/img/downstairs-bathroom.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
 
 | | Min | Max |
 |---|---|---|
-| New Bathroom - We already have a new almond tub and almond toilet to use. Tub needs to be set in tile or wood. | $4,000 | $10,000 |
-| Tile | $1,000 | $2,000 |
+| New Bathroom - We have a new tub and toilet to use.  Their color is almond. The tub needs to be set in tile.   | $4,000 | $10,000 |
+| Tile and install | $2,000 | $4,000 |
 | Towel warming rack | $300 | $500 |
 
+
 ## Prior to Basement Dig
+
+| Remove slate and rail road ties, Unhook AC units |||
+|---|---|---|
+| Jackhammer existing north cement for AC pad. Removed concrete can be used to fill void under kitchen bumpout. Initially store concrete on northeast side of house.  | $400 | $800 |
+| Remove and dispose of creosote railroad ties. | $200 | $500 |
+| Remove slate patio stones and concrete. Retain state for filler or reuse. Store under exterior stairway. Store concrete on northeast side of house. | $200 | $400 |
+
+
+<a href="../phases/img/basement/initial.jpg"><img src="../phases/img/basement/initial.jpg" style="width:100%; max-width: 1000px"></a><br>
+Before removal of laundry and tree(s)<br><br> 
 
 Loren will:  
 
 Remove the rear laundry areas.  
 Remove one of two trees that are close together, following approval by city. Using climbing harness to remove limbs.  
+Repointing and adding more jacks under house.  
+Remove brick wall where trash cans reside. Retain bricks for reuse.  
 
 
 
-## Basement
+## Basement Dig and Pour
 
 <!--
 Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 2014) - Don't remember which house.
 -->
 
-Before dig:<br>
-<a href="../phases/img/basement/initial.jpg"><img src="../phases/img/basement/initial.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
+| **Temporarily unhook HVAC** | | |
+|---|---|---|
+| Remove freon and detach 2 AC units. Depending on weather, temporaily extend lines and move further east outside of fence | $100 | $700 |
+| &nbsp; | | |
+| **Basement Dig and Cement Work** | | |
+| Basement Dig, Frame and Pour - includes sump pump and drain pipes | $10,000 | $30,000 |
+| Pour cement pad for AC Units | $600 | $800 |
+| North bump-out concrete foundation | $2,000 | $4,000 |
+| Cemeent drain by porch with grate to catch leaves | $400 | $500 |
+| Drains from brick porch area down to street below entrance, drain going east next to short brick wall | $800 | $1,500
+| Pour higher basement level, 2 sets of cement steps and backing for brick walls on Bass Street | $1,000 | $2,500 |
+| &nbsp; | | |
 
 <br><br>
 <a href="../phases/img/basement.jpg"><img src="../phases/img/basement.jpg" style="width:100%; max-width:1200px"></a><br>
 <br><br>
 
 
-<a href="../phases/img/basement/slab.jpg"><img src="../phases/img/basement/slab.jpg" style="width:100%; max-width:1200px"></a><br>
-<br><br>
+
+### Low Carbon Emission Concrete
+
+Atlanta-based Thomas Concrete has been using the Canadian CarbonCure system since 2016.
+[CNN Article](https://money.cnn.com/2018/06/12/technology/concrete-carboncure/index.html)  
+
+"CarbonCure involves injecting carbon dioxide captured from various other industrial processes into concrete during the mixing process. A chemical reaction would “mineralize” that carbon dioxide, which would have the added benefit of making the concrete compressively stronger." “We have seen no downsides to using CarbonCure,”  Drew Millwood, the Thomas Concrete technician who oversaw the Kendeda job, writes: “It allows for cement reduction in any mix it is used in and provides strength at or above design. No cost increase is involved in a mix containing CO2 as the savings from cement reduction offset the cost of CO2 delivery. Equipment costs are easily recouped due to the savings.” - [source](https://livingbuilding.kendedafund.org/2019/07/16/carboncure/)  
 
 
-| Prep for cement work |||
+## Hollow Core Slab (aka Coreslab)
+
+| | | |
 |---|---|---|
-| Remove freon and detach two AC units (in the fall) | $25 | $200 |
-| Jackhammer existing north cement for AC pad.<br>Removed concrete might be used to fill void under kitchen bumpout. Store concrete on northeast side of house.  | $400 | $800 |
-| Remove brick wall where trash cans reside. Retain bricks for reuse. | $400 | $600 |
-| Remove slate patio stones and concrete. Retain state for filler or reuse. Store under exterior stairway. Store concrete on northeast side of house. | $200 | $400 |
-| &nbsp; | | |
-| **Basement/Cement Work** | | |
-| Pour cement pad for AC Units | $600 | $800 |
-| Basement Dig, Frame and Pour - includes sump pump and drain pipes | $10,000 | $30,000 |
-| North bump-out foundation cement pour at same time | $2,000 | $4,000 |
-| Cemeent drain by porch with grate to catch leaves | $400 | $500 |
-| Drains from brick porch area down to street below entrance, drain going east next to short brick wall | $800 | $1,500
-| Pour higher basement level, 2 sets of cement steps and backing for brick walls on Bass Street | $1,000 | $2,500 |
-| &nbsp; | | |
-| **Brickwork** | | |
-| Porch tiles laid out for rain absorption as back porch | $400 | $800 |
-| Brick patio area above stairway, weed barrier fabric, sand under bricks| $300 | $500 |
-| Reset sidewalk (center third of Bass frontage, create side slope away from basement, weed barrier. (Other areas of Bass Street have vulnerable trees, so avoid resetting bricks by 2 oak trees and at front of property by Grant Street) | $800 | $1000 |
-| Brick walls of porch | $1000 | $3000 |
-| &nbsp; | | |
 | **Hollow core install** | | |
 | Hollow core slabs, lifted into place by crane on truck | $15,000 | $25,000 |
 | Weatherproof plywood cover over basement stair opening, secure from below. Hinges on east side for access to basement stairway. | $100 | $400 |
 
+<br>
+
+<a href="../phases/img/coreslab.jpg"><img src="../phases/img/coreslab.jpg" style="width:100%; max-width:1200px"></a>
+<br><br>
 
 
+8” slab + 2” concrete topping. 10” total.  
+
+Hollow Core slabs and basement floor will provide a heat-sink in the main floor, storing heat generated from solar energy to radiate out at night.  
+
+Electric heating will reside within basement floor to heat basement ceiling slab from below.  
+
+
+<br><br>
+
+<a href="http://www.concretetech.com/Adobe/hollowcorebuildingbrochure.pdf"><img src="img/hollowcore-drilling.png" style="width:100%; max-width: 800px"></a><br><br>
+
+
+[Concrete Industries - Indiana](https://concreteindustries.com/hollowcore/)
+**Specs**  
+[8" Hollowcore with 2" composite topping](https://concreteindustries.com/wp-content/uploads/2017/07/Hollowcore-Load-Table-2in-Composite.pdf)  
+[8" Hollowcore with no composite topping](https://concreteindustries.com/wp-content/uploads/2017/07/Hollowcore-Load-Table-No-Composite.pdf)
+<br><br>
+
+<!--
+<img src="../phases/img/basement/core-slab-pcm.jpg" style="width:100%; max-width:800px"><br>
+-->
+
+### Sources of Precast Concrete for Hollow Core
+
+[Precast Concrete Suppliers serving Georgia](https://www.thomasnet.com/georgia/precast-concrete-17311002-1.html)  
+
+[Precast Concrete Directory](https://www.pci.org/PCI/Directories/PCICertifiedPlants.aspx)  
+
+
+### Concrete with Cellulose Nanocrystals
+
+Cellulose nanocrystals provide an avenue for water to hydrate cement particles when mixing.  
+
+Cellulose-infused concrete is stronger and sets faster  
+
+[Purdue Researchers](https://www.purdue.edu/newsroom/releases/2018/Q1/purdue-researchers-show-concrete-infused-with-wood-nanocrystals-is-stronger,-plan-to-use-it-in-california-bridge.html)  
+[Thomas parking lot in Greenville](http://www.thomasconcrete.com/latest-news/thomas-concrete-partners-in-the-debut-of-a-concrete-mix-infused-with-cellulosic-nanomaterial)  
+
+
+
+## 2" Concrete Topping
+
+||||
+|---|---|---|
+| Concrete Topping | $500 | $2000 |
+| Three sets of steps at porch | $500 | $1000 |
+
+<a href="../phases/img/basement/slab.jpg"><img src="../phases/img/basement/slab.jpg" style="width:100%; max-width:1200px"></a><br>
 
 
 ## Basement Brickwork
@@ -131,17 +207,51 @@ Before dig:<br>
 <a href="../phases/img/basement/brickwork.jpg"><img src="../phases/img/basement/brickwork.jpg" style="width:100%; max-width:1200px"></a><br>
 <br><br>
 
+||||
+|---|---|---|
+| **Brickwork** | | |
+| Porch tiles laid out for rain absorption as back porch | $400 | $800 |
+| Brick patio area above stairway, weed barrier fabric, sand under bricks| $300 | $500 |
+| Reset sidewalk (center third of Bass frontage, create side slope away from basement, weed barrier. (Other areas of Bass Street have vulnerable trees, so avoid resetting bricks by 2 oak trees and at front of property by Grant Street) | $800 | $1000 |
+| Brick walls of porch | $1000 | $3000 |
+| &nbsp; | | |
+
+
+
+## Porch Railing Style
+
+Not our house. For reference only...  
+
+<a href="../exterior/img/porch.jpg"><img src="../exterior/img/porch.jpg" style="width:100%; max-width:1200px"></a> 
+
+Waterflow at porch - Six levels of drain protection:
+
+1. Area above stairs drains into pipe that outputs below porch.  
+2. Downspout drains into three rain barrels within west side of porch, then outputs below porch.  
+3. Sidewalk higher than stairs drains to outflow below porch below.  
+4. Sidewalk lower than stairs has a drain before doorway.  Addition to sidewalk angles away from door.  
+5. Goove below doors drains below porch.  
+6. Interior floor angles away from deeper basement, which has a sump pump.  
+
+<a href="../exterior/img/waterflow.jpg"><img src="../exterior/img/waterflow.jpg" style="width:100%; max-width:1200px"></a> 
+
+---
+
 ## Bumpout
 
-- 3' north side bumpout for two stories (no additional roof modifications)
+- 3' north side bumpout for two stories (minimum roof modifications)
 - Windows on north and west side of kitchen and craft room
 
 
 <a href="../exterior/img/rear/bumpout.jpg"><img src="../exterior/img/rear/bumpout.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
 
-<a href="../exterior/img/rear/patio-frame.jpg"><img src="../exterior/img/rear/patio-frame.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
+||||
+|---|---|---|
+| **Bumpout** | | |
+| Bumpout and windows | $15,000 | $30,000 |
+| Porch railings for lower south porch | $1,000 | $3,000 |
+| Opening to bumpout area cut at small window beside the water heater upstairs. | $200 | $400 |
 
-Upstairs, the small window beside the water heater will be cut into a door to provide access to the 3' bumpout area.  
 
 
 ## Remove plaster and wood slats in downstairs kitchens
@@ -195,20 +305,7 @@ Adding the 4' basement stairway will occur after the adjacent basement wall is a
 
 
 
-
-
-
-## Patio Area and Stairway to Basement
-
-- Mass timber framework surrounding patio (cashout)
-- One story structure over basement stair area (cashout)
-- Dig area for basement stairs, additional concrete (cashout)
-
-<a href="../exterior/img/south.jpg"><img src="../exterior/img/south.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
-
-
-
-## Phase 5 - Move exterior AC units, add grate. Add basement door and window.
+## Move 2 AC units to permanent location, add grate. Add basement door and window.
 
 Two exterior mini-split units could also be added during this phase.
 

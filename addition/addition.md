@@ -18,12 +18,10 @@
 ||||
 |---|---|---|
 | **Framework** | | |
-| Framework including mass timber columns and attic roof<br>Reuse wood from west side of roof for northeast roof height increase | $20,000 | $50,000 |
+| Framework including mass timber columns and attic roof (plus $10,000 in "[projects](../projects/)")<br>Use wood removed from west side of roof to increase northeast height about 1.5 feet | $10,000 | $40,000 |
 | "Base Isolated" House - pads under mass timber columns to dampen earthquake vibration | $500 | $1,000 |
-| Remove pulldown attic stairway while adding or extending a couple joists. Temporarily reuse attic stairs within master bedroom. | $800 | $1,200 |
-| Create balcony by attaching extensions to joists over new jut-out. | $3,000 | $4,500 |
-| Porch railings for lower south porch | $2,000 | $3,000 |
-| Porch railings for upstars west porch | $1,400 | $2,000 |
+| Remove pulldown attic stairway while adding or extending a couple joists. Retain attic stairs for temporary use within master bedroom. | $800 | $1,200 |
+| Create north balcony by extending joists over bumpout. | $3,000 | $4,500 |
 | Porch railings for attic porch | $800 | $1,200 |
 | &nbsp; |||
 | **Roofing and Siding** |||
@@ -172,7 +170,6 @@ To get quote from:<br>
 <a href="../kitchen/">More Kitchen Images</a><br>
 
 
-
 ## Woodwork/Framing/Doors
 
 Loren's uncle may build screens. Also considering other sliding wall options.
@@ -197,97 +194,25 @@ Loren's uncle may build screens. Also considering other sliding wall options.
 
 
 
+## Phase 10 - Grey Water System
+
+2 attic grey water tanks will be used for BOTH toilet flushing and watering the yard.  
+3 rain barrel tanks below the porch steps will be pumped into the 2 attic tanks.  
+
+||||
+|---|---|---|
+| Purchase and place grey water tanks above master bedroom | $800 | $1,500 |
+| Rain barrels and pipe hookup under south steps | $1,000 | $2,500 |
+| Install tiny door, install tiny sunburst (Abbey) |  |  |
+
+
+
 
 <br>
 <div id="totals"></div>
 <br>
 ---
 
-# Basement Details
-
-## Low Carbon Emission Concrete
-
-Atlanta-based Thomas Concrete has been using the Canadian CarbonCure system since 2016.
-[CNN Article](https://money.cnn.com/2018/06/12/technology/concrete-carboncure/index.html)  
-
-"CarbonCure involves injecting carbon dioxide captured from various other industrial processes into concrete during the mixing process. A chemical reaction would “mineralize” that carbon dioxide, which would have the added benefit of making the concrete compressively stronger." “We have seen no downsides to using CarbonCure,”  Drew Millwood, the Thomas Concrete technician who oversaw the Kendeda job, writes: “It allows for cement reduction in any mix it is used in and provides strength at or above design. No cost increase is involved in a mix containing CO2 as the savings from cement reduction offset the cost of CO2 delivery. Equipment costs are easily recouped due to the savings.” - [source](https://livingbuilding.kendedafund.org/2019/07/16/carboncure/)  
-
-## Hollow Core Concrete Slabs
-
-<!--
-<a href="../phases/img/coreslab.jpg"><img src="../phases/img/coreslab.jpg" style="width:100%; max-width:1200px"></a>  
-<br>
--->
-8” slab + 2” concrete topping. 10” total.  
-
-Hollow Core slabs could provide a heat-sink in the main floor, storing heat generated from solar energy to radiate out at night.  Likely to use electric on basement floor to heat basement ceiling slab from below.
-
-
-<br><br>
-
-<a href="http://www.concretetech.com/Adobe/hollowcorebuildingbrochure.pdf"><img src="img/hollowcore-drilling.png" style="width:100%; max-width: 800px"></a><br><br>
-
-
-[Concrete Industries - Indiana](https://concreteindustries.com/hollowcore/)
-**Specs**  
-[8" Hollowcore with 2" composite topping](https://concreteindustries.com/wp-content/uploads/2017/07/Hollowcore-Load-Table-2in-Composite.pdf)  
-[8" Hollowcore with no composite topping](https://concreteindustries.com/wp-content/uploads/2017/07/Hollowcore-Load-Table-No-Composite.pdf)
-<br><br>
-
-<!--
-<img src="../phases/img/basement/core-slab-pcm.jpg" style="width:100%; max-width:800px"><br>
--->
-
-### Sources of Precast Concrete for Hollow Core
-
-[Precast Concrete Suppliers serving Georgia](https://www.thomasnet.com/georgia/precast-concrete-17311002-1.html)  
-
-[Precast Concrete Directory](https://www.pci.org/PCI/Directories/PCICertifiedPlants.aspx)  
-
-
-### Concrete with Cellulose Nanocrystals
-
-Cellulose nanocrystals provide an avenue for water to hydrate cement particles when mixing.  
-
-Cellulose-infused concrete is stronger and sets faster  
-
-[Purdue Researchers](https://www.purdue.edu/newsroom/releases/2018/Q1/purdue-researchers-show-concrete-infused-with-wood-nanocrystals-is-stronger,-plan-to-use-it-in-california-bridge.html)  
-[Thomas parking lot in Greenville](http://www.thomasconcrete.com/latest-news/thomas-concrete-partners-in-the-debut-of-a-concrete-mix-infused-with-cellulosic-nanomaterial)  
-
-
-
-
-## Repointing Bricks
-
-Sandstone mortar color, similar to left below. [Mortar Mix for Historic Homes](https://gpna.org/historic-home-care)<br><br>
-
-<a href="img/bricks/mortar-sandstone.png"><img src="img/bricks/mortar-sandstone.png" style="width:100%; max-width:500px"></a> 
-<br><br>
-
-A color more like our existing wall below than the red existing mortar...<br><br>
-
-<a href="img/bricks/brick-existing.png"><img src="img/bricks/brick-existing.png" style="width:100%; max-width:500px"></a>  
-<br><br>
-
-
-## Porch Railing Style
-
-Not our house. For reference only...  
-
-<a href="../exterior/img/porch.jpg"><img src="../exterior/img/porch.jpg" style="width:100%; max-width:1200px"></a> 
-
-Waterflow at porch - Six levels of drain protection:
-
-1. Area above stairs drains into pipe that outputs below porch.  
-2. Downspout drains into three rain barrels within west side of porch, then outputs below porch.  
-3. Sidewalk higher than stairs drains to outflow below porch below.  
-4. Sidewalk lower than stairs has a drain before doorway.  Addition to sidewalk angles away from door.  
-5. Goove below doors drains below porch.  
-6. Interior floor angles away from deeper basement, which has a sump pump.  
-
-<a href="../exterior/img/waterflow.jpg"><img src="../exterior/img/waterflow.jpg" style="width:100%; max-width:1200px"></a> 
-
----
 
 ## Master Bathroom
 

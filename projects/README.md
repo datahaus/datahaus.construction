@@ -6,6 +6,17 @@
 In addition to [upstairs work using cashout](../upstairs/)
 
 
+## Repointing Bricks
+
+Sandstone mortar color, similar to left below. [Mortar Mix for Historic Homes](https://gpna.org/historic-home-care)<br><br>
+
+<a href="../phases/img/bricks/mortar-sandstone.png"><img src="../phases/img/bricks/mortar-sandstone.png" style="width:100%; max-width:500px"></a> 
+<br><br>
+
+A color more like our existing wall below than the red existing mortar...<br><br>
+
+<a href="../phases/img/bricks/brick-existing.png"><img src="../phases/img/bricks/brick-existing.png" style="width:100%; max-width:500px"></a>  
+<br><br> 
 
 ## Chimney Cover
 ||||
@@ -20,7 +31,7 @@ In addition to [upstairs work using cashout](../upstairs/)
 | Add 6 recessed lights in existing upstairs center bedroom (probably 3’ from corners). Dimmer switch on east wall. | $500 | $800 |
 
 
-## Entrance Room - Remove Closet and Open Wall by Stairway
+## Entrance Room - Remove Closet and add bookshelf
 
 Add new support crossbeam. Interior wall demolition.  
 The wall above the stairway could be replaced with lighter drywall. A 45 degree angle will be added for head clearance.  
@@ -67,18 +78,6 @@ Compression of north wall causing plaster to bulge:
 
 <a href="../phases/img/AC/AC-enclosure.jpg"><img src="../phases/img/AC/AC-enclosure.jpg" style="width:100%; max-width:1200px"></a>  
 <br>
-
-## Grey Water System
-
-2 attic grey water tanks will be used for BOTH toilet flushing and watering the yard.  
-3 rain barrel tanks below the porch steps will be pumped into the 2 attic tanks.  
-
-||||
-|---|---|---|
-| Purchase and place grey water tanks above master bedroom | $800 | $1,500 |
-| Rain barrels and pipe hookup under south steps | $1,000 | $2,500 |
-| Install tiny door, install tiny sunburst (Abbey) |  |  |
-
 
 ## Crawlspace
 ||||
