@@ -16,9 +16,9 @@ Zero lot line variance - Add photos of neighbors on Bass
 -->
 # Construction Phases
 
-- 2021 - [Bathroom, Basement, Kitchen - Construction Loan](#planning) - Planning, add downstairs bathroom, basement, kitchen bumpout
-- 2022 - [Upstairs Craft Room and Bathroom - Cashout Financing](../upstairs/) - Straighten stairway, upstairs bathroom, create downstairs pantry 
-- 2022 - [Patio - Cashout Financing](../patio/) - Mass timber over patio  
+- 2021 - [Bathroom, Basement, Kitchen Bumpout (Construction Loan)](#planning) - Planning, add downstairs bathroom, basement, kitchen bumpout
+- 2022 - [Upstairs Craft Room and Bathroom (Cashout Financing)](../upstairs/) - Straighten stairway, upstairs bathroom, create downstairs pantry 
+- 2022 - [Patio - (Cashout Financing)](../patio/) - Mass timber over patio  
 - 2023 - [Ongoing Projects](../projects/) - Solar, move downstais electric box to basement
 - 2027 - [Full Addition](../addition/) - Master bedroon, master bathroom, attic shed roofs
 

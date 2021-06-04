@@ -60,7 +60,7 @@ Save existing cabinets. We may wait on new cabinets until west wall is removed.
 <a href="img/craftroom.png"><img src="img/craftroom.png" style="width:100%; max-width: 1200px"></a><br><br>
 
 
-
-
-
+<br>
+<div id="totals"></div>
+<br>
 

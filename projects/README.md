@@ -8,15 +8,26 @@ In addition to [upstairs work using cashout](../upstairs/)
 
 ## Repointing Bricks
 
-Sandstone mortar color, similar to left below. [Mortar Mix for Historic Homes](https://gpna.org/historic-home-care)<br><br>
+One of these mortar colors, leaning toward darker (middle). [Mortar Mix for Historic Homes](https://gpna.org/historic-home-care)<br><br>
 
 <a href="../phases/img/bricks/mortar-sandstone.png"><img src="../phases/img/bricks/mortar-sandstone.png" style="width:100%; max-width:500px"></a> 
 <br><br>
 
-A color more like our existing wall below than the red existing mortar...<br><br>
+Our existing walls are too red...<br>
 
 <a href="../phases/img/bricks/brick-existing.png"><img src="../phases/img/bricks/brick-existing.png" style="width:100%; max-width:500px"></a>  
-<br><br> 
+
+
+## Crawlspace
+||||
+|---|---|---|
+| Insulate kitchen floor in crawlspace. | $500 | $800 |
+| <a href="https://docs.google.com/document/d/12DIpuRJvCAZmODl7M-jmEJEsM0hCdxiBljkXsaRpKSs/edit?usp=sharing">Crawl Space Encapsulation</a> | $2,000 | $5,000 |
+| Existing front crawl space door - replace plywood with verticle boards. sand, stain and seal and lock. Dark stain color to blend with bricks | $300 | $500 |
+
+||||
+|---|---|---|
+| Repointing - Includes inside crawl space | $1,200 | $2,000 |
 
 ## Chimney Cover
 ||||
@@ -31,7 +42,7 @@ A color more like our existing wall below than the red existing mortar...<br><br
 | Add 6 recessed lights in existing upstairs center bedroom (probably 3’ from corners). Dimmer switch on east wall. | $500 | $800 |
 
 
-## Entrance Room - Remove Closet and add bookshelf
+## Entrance Room - Remove closet and add bookshelf
 
 Add new support crossbeam. Interior wall demolition.  
 The wall above the stairway could be replaced with lighter drywall. A 45 degree angle will be added for head clearance.  
@@ -78,13 +89,6 @@ Compression of north wall causing plaster to bulge:
 
 <a href="../phases/img/AC/AC-enclosure.jpg"><img src="../phases/img/AC/AC-enclosure.jpg" style="width:100%; max-width:1200px"></a>  
 <br>
-
-## Crawlspace
-||||
-|---|---|---|
-| Insulate kitchen floor in crawlspace. | $500 | $800 |
-| <a href="https://docs.google.com/document/d/12DIpuRJvCAZmODl7M-jmEJEsM0hCdxiBljkXsaRpKSs/edit?usp=sharing">Crawl Space Encapsulation</a> | $2,000 | $5,000 |
-| Existing front crawl space door - replace plywood with verticle boards. sand, stain and seal and lock. Dark stain color to blend with bricks | $300 | $500 |
 
 ## Porch Updates
 ||||
