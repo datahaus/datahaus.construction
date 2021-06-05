@@ -1,11 +1,7 @@
 
-# Patio - Mass Timber
+# Patio Area
 
-## Patio Area and Stairway to Basement
-
-- Mass timber framework surrounding patio  
-- One story structure over basement stair area   
-- Dig area for basement stairs, pour additional concrete  
+- Mass timber surrounding patio is framework for future addition    
 
 <a href="../exterior/img/rear/patio-frame.jpg"><img src="../exterior/img/rear/patio-frame.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
 

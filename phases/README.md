@@ -1,6 +1,3 @@
-[721 Grant Street](../) - <a href="sketchup/721-Grant-Street.skp">Download SketchUp Model</a> 
-
-
 <!--
 Renovation Construction Loan
 Based on value of home at time of project completion
@@ -16,28 +13,46 @@ Zero lot line variance - Add photos of neighbors on Bass
 -->
 # Construction Phases
 
-- 2021 - [Bathroom, Basement, Kitchen Bumpout (Construction Loan)](#planning) - Planning, add downstairs bathroom, basement, kitchen bumpout
-- 2022 - [Upstairs Craft Room and Bathroom (Cashout Financing)](../upstairs/) - Straighten stairway, upstairs bathroom, create downstairs pantry 
-- 2022 - [Patio - (Cashout Financing)](../patio/) - Mass timber over patio  
+<a href="sketchup/721-Grant-Street.skp">Download SketchUp Model</a> 
+
+- 2021 - [Bathroom, Basement, Kitchen Bumpout](#planning) - Planning, new downstairs bathroom, basement, kitchen bumpout
+- 2022 - [Upstairs Craft Room and Bathroom](../upstairs/) - Straighten stairway, upstairs bathroom, create downstairs pantry 
+- 2022 - [Patio](../patio/) - Mass timber over patio  
 - 2023 - [Ongoing Projects](../projects/) - Solar, move downstais electric box to basement
 - 2027 - [Full Addition](../addition/) - Master bedroon, master bathroom, attic shed roofs
 
 
 ## Planning
 
-- Prepare and submit plans to city. Advise on using Sketchup where practical.
+- Prepare and submit plans to city using Sketchup where practical.
 
 
 | | Min | Max |
 |---|---|---|
 | Ongoing pre-construction Planning. Work with engineers to finalize material orders. | $2,500 | $12,500 |
 
+## New Downstairs Bathroom
+
+- Located in former dining room on south side of house  
+- Opening walls and ceiling for lighting and electric  
+- Shower doors should slide over to front of toilet to allow for full access to side of tub.  
+- Panel on south side of tub should pivot to wall.  
+
+<a href="../bathroom/downstairs/img/downstairs-bathroom.jpg"><img src="../bathroom/downstairs/img/downstairs-bathroom.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
+
+| | Min | Max |
+|---|---|---|
+| New Bathroom - We have a new tub and toilet to use.  Their color is almond. The tub needs to be set in tile.   | $4,000 | $10,000 |
+| Tile and install | $2,000 | $4,000 |
+| Towel warming rack | $300 | $500 |
+
+
 ## Relocate Gas Pipe
 
 Gas pipe currently runs through kitchen pantries.  
 Work can coincide with plumbing for new downstairs bathroom.  
  
-- Loren will open downstairs coat closet nouth wall for new pipe. 
+- Loren will open downstairs north wall in coat closet for new pipe. 
 - Pipe will reside in repositioned bathroom wall upstairs.
 - Run pipe under plywood in attic to furnace. Loren will drill holes beforehand.
 - Send gas to the water heater from above by reversing the flow of the pipe that currently goes to furnace in the attic.  
@@ -55,24 +70,8 @@ Includes building portion of new wall for new gas pipe location. Vent pipes for 
 <a href="../bathroom/upstairs/img/upstairs-gas-pipe.jpg"><img src="../bathroom/upstairs/img/upstairs-gas-pipe.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
 <br>
 
-<a href="../bathroom/upstairs/img/upstairs-bathroom.jpg"><img src="../bathroom/upstairs/img/upstairs-bathroom.jpg" style="width:100%; max-width: 300px"></a><br><br> 
-Upstairs bathroom reconfigure in [upstairs projects phase](../upstairs).  
-
-
-## New Downstairs Bathroom
-
-- Located in former dining room on south side of house  
-- Opening walls and ceiling for lighting and electric  
-- Shower doors should slide over to front of toilet to allow for full access to side of tub.  
-- Panel on south side of tub should pivot to wall.  
-
-<a href="../bathroom/downstairs/img/downstairs-bathroom.jpg"><img src="../bathroom/downstairs/img/downstairs-bathroom.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
-
-| | Min | Max |
-|---|---|---|
-| New Bathroom - We have a new tub and toilet to use.  Their color is almond. The tub needs to be set in tile.   | $4,000 | $10,000 |
-| Tile and install | $2,000 | $4,000 |
-| Towel warming rack | $300 | $500 |
+Later: Bathroom and stairway reconfigure during [upstairs projects](../upstairs).<br><br>
+<a href="../bathroom/upstairs/img/upstairs-bathroom.jpg"><img src="../bathroom/upstairs/img/upstairs-bathroom.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
 
 
 ## Prior to Basement Dig
@@ -102,6 +101,8 @@ Remove brick wall where trash cans reside. Retain bricks for reuse.
 Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 2014) - Don't remember which house.
 -->
 
+- Adding the 4' basement stairway will occur after the adjacent basement wall is added so we have structural support while dirt is removed.
+
 | **Temporarily unhook HVAC** | | |
 |---|---|---|
 | Remove freon and detach 2 AC units. Depending on weather, temporaily extend lines and move further east outside of fence | $100 | $700 |
@@ -110,10 +111,12 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Basement Dig, Frame and Pour - includes sump pump and drain pipes | $10,000 | $30,000 |
 | Pour cement pad for AC Units | $600 | $800 |
 | North bump-out concrete foundation | $2,000 | $4,000 |
-| Cemeent drain by porch with grate to catch leaves | $400 | $500 |
+| Cement drain by porch with grate to catch leaves | $400 | $500 |
 | Drains from brick porch area down to street below entrance, drain going east next to short brick wall | $800 | $1,500
 | Pour higher basement level, 2 sets of cement steps and backing for brick walls on Bass Street | $1,000 | $2,500 |
 | &nbsp; | | |
+| **Basement Dig and Cement Work** | | |
+| Dig area for basement stairs, pour additional concrete | $1,000 | $2,500 |
 
 <br><br>
 <a href="../phases/img/basement.jpg"><img src="../phases/img/basement.jpg" style="width:100%; max-width:1200px"></a><br>
@@ -271,12 +274,7 @@ Move water heater either into attic or below stairway.
 ## Downstairs Kitchen
 
 - Downstairs kitchen, counters and cabinets
-- Mass timber framework surrounding patio (optional)
-
-
-The old bathroom will be converted to a pantry after the cashout so we appraise higher.
-
-Adding the 4' basement stairway will occur after the adjacent basement wall is added so we have structural support while dirt is removed.
+- The old bathroom will be converted to a pantry
 
 ||||
 |---|---|---|
@@ -285,6 +283,8 @@ Adding the 4' basement stairway will occur after the adjacent basement wall is a
 | Remove ceiling plaster and south interior wall plaster in both kitchens.  | $600 | $800 |
 | &nbsp; | | |
 
+||||
+|---|---|---|
 | **Plumbing** | | |
 | Install new incoming valve under house to increase pressure. | $300 | $600 |
 | Plumbing for new bathrooms, including pipe to attic. | $1,200 | $4,000 |  
@@ -292,14 +292,8 @@ Adding the 4' basement stairway will occur after the adjacent basement wall is a
 | Plumbing for sink in kitchen island. (4" Drain pipe already runs to kitchen. Add "T" to for new bathroom.) | $500 | $800 |
 | Plumbing for sink in craftroom | $100 | $200 |
 
-<br><br>
 
-
-
-
-## Move 2 AC units to permanent location, add grate. Add basement door and window.
-
-Two exterior mini-split units could also be added during this phase.
+## Reposition existing AC units
 
 ||||
 |---|---|---|
@@ -307,6 +301,14 @@ Two exterior mini-split units could also be added during this phase.
 | Extend and insulate freon lines | $600 | $800 |
 | Grate over AC units | $800 | $1,500 |
 | &nbsp; | | |
+
+Two exterior mini-split units will be added in a later phase.
+
+
+## Basement sliding door and according window.
+
+||||
+|---|---|---|
 | **Sliding door to basement. Basement stairway, Window within basement.** | | |
 | Basement sliding doors adjacent to sidewalk | $2,000 | $5,000 |
 | Metal stairway in basement | $1,000 | $4,000 |
@@ -330,4 +332,4 @@ Two exterior mini-split units could also be added during this phase.
 <br>
 
 ---
-[Upstairs work with Cashout Financing](../upstairs/) 
+[Next: Upstairs bathroom and craftroom](../upstairs/) 
