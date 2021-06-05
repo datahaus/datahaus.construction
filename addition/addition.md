@@ -79,7 +79,7 @@ To get quote from:<br>
 | Separate fuse boxes for new electric work. Located in basement and attic.  | $500 | $1,000 |
 | “Whole-house protector” $178 on Amazon for 140,000 amp Siemens FS140 Whole House Surge Protector. | $300 | $500 |
 
-## Phase 9 - Mini-splits, Plumbing
+## Phase 9 - Mini-splits
 | [Mini-split locations](../livingroom/#minisplits) |||
 |---|---|---|
 | Two exterior mini-split units | $2,000 | $3,000 |
@@ -87,13 +87,6 @@ To get quote from:<br>
 | Mini-split in south livingroom wall | $2,000 | $2,800 |
 | Mini-split above upstairs bathroom | $2,000 | $2,800 |
 | &nbsp; |||
-| **Plumbing** | | |
-| Install new incoming valve under house to increase pressure. | $300 | $600 |
-| Plumbing for new bathrooms, including pipe to attic. | $1,200 | $4,000 |  
-| Move gas line in attic under plywood. Holes through joists. | $400 | $800 |
-| Move water heater to attic. Hook up water and gas lines. | $700 | $900 |
-| Plumbing for sink in kitchen island. (4" Drain pipe already runs to kitchen. Add "T" to for new bathroom.) | $500 | $800 |
-| Plumbing for sink in craftroom | $100 | $200 |
 
 ## Phase 10 - Drywall, Interior Trim, Interior Painting, Stairway Completion, Interior Doors
 ||||

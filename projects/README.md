@@ -28,7 +28,11 @@ Our existing walls are too red...<br>
 ||||
 |---|---|---|
 | Repointing - Includes inside crawl space | $1,200 | $2,000 |
-
+| **Add more supports in basement (with cement footings and aluminum tops), repoint bricks** | | |
+| Add cement bases and 3 to 5 metal poles in crawlspace to reinforce west side of house, and column areas under side of kitchen and sides of front entrance room wall which will be removed. | $800 | $1000 |
+| Seal existing hole into crawl space after removing laundry area. Hole is about 2' tall by 3.5' wide. | $400 | $500 |
+| Repoint existing bricks to add stability prior to basement dig. Repair crawlspace vent openings, patch wood holes. | $1,400 | $2,000 |
+ 
 ## Chimney Cover
 ||||
 |---|---|---|

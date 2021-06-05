@@ -22,8 +22,6 @@ Zero lot line variance - Add photos of neighbors on Bass
 - 2023 - [Ongoing Projects](../projects/) - Solar, move downstais electric box to basement
 - 2027 - [Full Addition](../addition/) - Master bedroon, master bathroom, attic shed roofs
 
-We may condense timeline if material planning and approval goes quickly.  
-
 
 ## Planning
 
@@ -49,11 +47,11 @@ Work can coincide with plumbing for new downstairs bathroom.
 
 | | Min | Max |
 |---|---|---|
-| Relocating gas line | $800 | $1,800 |
+| Relocating gas line. Loren will put holes through joists under plywood. | $800 | $1,800 |
 
 <br>
 
-Includes building portion of new wall for new gas pipe. Located by sewer air pipe and refridgerator vent:<br><br>
+Includes building portion of new wall for new gas pipe location. Vent pipes for the refrigerators and toilet will reside in the same wall:<br><br>
 <a href="../bathroom/upstairs/img/upstairs-gas-pipe.jpg"><img src="../bathroom/upstairs/img/upstairs-gas-pipe.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
 <br>
 
@@ -93,7 +91,7 @@ Loren will:
 
 Remove the rear laundry areas.  
 Remove one of two trees that are close together, following approval by city. Using climbing harness to remove limbs.  
-Repointing and adding more jacks under house.  
+Work with local handyman to add more jacks under house.  
 Remove brick wall where trash cans reside. Retain bricks for reuse.  
 
 
@@ -228,8 +226,8 @@ Waterflow at porch - Six levels of drain protection:
 
 1. Area above stairs drains into pipe that outputs below porch.  
 2. Downspout drains into three rain barrels within west side of porch, then outputs below porch.  
-3. Sidewalk higher than stairs drains to outflow below porch below.  
-4. Sidewalk lower than stairs has a drain before doorway.  Addition to sidewalk angles away from door.  
+3. Sidewalk above stairs drains to outflow below porch.  
+4. Sidewalk below stairs has a drain before doorway. Addition to sidewalk angles away from door.  
 5. Goove below doors drains below porch.  
 6. Interior floor angles away from deeper basement, which has a sump pump.  
 
@@ -280,25 +278,19 @@ The old bathroom will be converted to a pantry after the cashout so we appraise 
 
 Adding the 4' basement stairway will occur after the adjacent basement wall is added so we have structural support while dirt is removed.
 
-
-
-
-
-
-
-
-
-
 ||||
 |---|---|---|
 | **On both levels, remove kitchen ceiling plaster and one side of south wall.** | | |
 | Park disposal truck at rear kitchen door for debris (plaster and wood slats). | $400 | $600 |
 | Remove ceiling plaster and south interior wall plaster in both kitchens.  | $600 | $800 |
 | &nbsp; | | |
-| **Add more supports in basement (with cemment footings and aluminum tops), repoint bricks** | | |
-| Add cement bases and 3 to 5 metal poles in crawlspace to reinforce west side of house, and column areas under side of kitchen and sides of front entrance room wall which will be removed. | $800 | $1000 |
-| Seal existing hole into crawl space after removing laundry area. Hole is about 2' tall by 3.5' wide. | $400 | $500 |
-| Repoint existing bricks to add stability prior to basement dig. Repair crawlspace vent openings, patch wood holes. | $1,400 | $2,000 |
+
+| **Plumbing** | | |
+| Install new incoming valve under house to increase pressure. | $300 | $600 |
+| Plumbing for new bathrooms, including pipe to attic. | $1,200 | $4,000 |  
+| Move water heater to attic. Hook up water and gas lines. | $700 | $900 |
+| Plumbing for sink in kitchen island. (4" Drain pipe already runs to kitchen. Add "T" to for new bathroom.) | $500 | $800 |
+| Plumbing for sink in craftroom | $100 | $200 |
 
 <br><br>
 
