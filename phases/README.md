@@ -70,8 +70,8 @@ Work can coincide with plumbing for new downstairs bathroom.
 | Relocating gas line. Loren will put holes through joists under plywood. | $800 | $1,800 |
 
 <br>
-
-Includes building portion of new wall for new gas pipe location. Vent pipes for the refrigerators and toilet will reside in the same wall:<br><br>
+<b>Upstairs wall portion to add for pipes</b><br>
+Wall will hold gas pipe and vent pipes for refrigerators and upstairs toilet:<br><br>
 <a href="../bathroom/upstairs/img/upstairs-gas-pipe.jpg"><img src="../bathroom/upstairs/img/upstairs-gas-pipe.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
 <br>
 
