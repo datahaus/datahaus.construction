@@ -132,6 +132,15 @@ Atlanta-based Thomas Concrete has been using the Canadian CarbonCure system sinc
 "CarbonCure involves injecting carbon dioxide captured from various other industrial processes into concrete during the mixing process. A chemical reaction would “mineralize” that carbon dioxide, which would have the added benefit of making the concrete compressively stronger." “We have seen no downsides to using CarbonCure,”  Drew Millwood, the Thomas Concrete technician who oversaw the Kendeda job, writes: “It allows for cement reduction in any mix it is used in and provides strength at or above design. No cost increase is involved in a mix containing CO2 as the savings from cement reduction offset the cost of CO2 delivery. Equipment costs are easily recouped due to the savings.” - [source](https://livingbuilding.kendedafund.org/2019/07/16/carboncure/)  
 
 
+## Move Electric Box
+
+| | | |
+|---|---|---|
+| Move the exterior electric box to the side of new porch.<br>Move mosition of wire from pole to the left so it will reside within future wall. | $800 | $2,000 |
+
+After new roof is completed, include a metal ring on wire to prevent squirrels from crossing to house.
+
+
 ## Hollow Core Slab (aka Coreslab)
 
 | | | |
@@ -199,31 +208,22 @@ Cellulose-infused concrete is stronger and sets faster
 ## Basement Brickwork
 
 - Basement, coreslab, brickwork, porch steps and rail.
-- Move the exterior electric box.
-
 - 2" of concrete on top of the coreslab to create a waterproof patio area. The surface will angle slightly to two drains on the west side.
-
 - Basement exterior door, basement interior accordion windows
-
-<a href="../phases/img/basement/brickwork.jpg"><img src="../phases/img/basement/brickwork.jpg" style="width:100%; max-width:1200px"></a><br>
-<br><br>
 
 ||||
 |---|---|---|
 | **Brickwork** | | |
-| Porch tiles laid out for rain absorption as back porch | $400 | $800 |
+| Porch tiles laid out for rain absorption as back porch (beige in image above) | $400 | $800 |
 | Brick patio area above stairway, weed barrier fabric, sand under bricks| $300 | $500 |
-| Reset sidewalk (center third of Bass frontage, create side slope away from basement, weed barrier. (Other areas of Bass Street have vulnerable trees, so avoid resetting bricks by 2 oak trees and at front of property by Grant Street) | $800 | $1000 |
+| Cement under sidewalk bricks for center 1/3 of Bass St frontage, including slope away from basement. (Other areas of Bass Street have vulnerable trees, so avoid resetting bricks by 2 oak trees and at front of property by Grant Street) | $800 | $1000 |
 | Brick walls of porch | $1000 | $3000 |
 | &nbsp; | | |
 
+<br>
 
-
-## Porch Railing Style
-
-Not our house. For reference only...  
-
-<a href="../exterior/img/porch.jpg"><img src="../exterior/img/porch.jpg" style="width:100%; max-width:1200px"></a> 
+<a href="../phases/img/basement/brickwork.jpg"><img src="../phases/img/basement/brickwork.jpg" style="width:100%; max-width:1200px"></a><br>
+<br><br>
 
 Waterflow at porch - Six levels of drain protection:
 
@@ -234,9 +234,26 @@ Waterflow at porch - Six levels of drain protection:
 5. Goove below doors drains below porch.  
 6. Interior floor angles away from deeper basement, which has a sump pump.  
 
-<a href="../exterior/img/waterflow.jpg"><img src="../exterior/img/waterflow.jpg" style="width:100%; max-width:1200px"></a> 
+Cement under sidewalk bricks:<br>
+<a href="../phases/img/basement/sidewalk.jpg"><img src="../phases/img/basement/sidewalk.jpg" style="width:100%; max-width:1200px"></a><br>
 
----
+## Porch Railing
+
+||||
+|---|---|---|
+| **Porch railing** | | |
+| South porch railing | $2,000 | $4,000 |
+
+<br>
+
+<a href="../exterior/img/waterflow.jpg"><img src="../exterior/img/waterflow.jpg" style="width:100%; max-width:1200px"></a>
+
+For reference:  
+
+<a href="../exterior/img/porch.jpg"><img src="../exterior/img/porch.jpg" style="width:100%; max-width:1200px"></a> 
+
+
+
 
 ## Bumpout
 
@@ -250,12 +267,11 @@ Waterflow at porch - Six levels of drain protection:
 |---|---|---|
 | **Bumpout** | | |
 | Bumpout and windows | $15,000 | $30,000 |
-| Porch railings for lower south porch | $1,000 | $3,000 |
 | Opening to bumpout area cut at small window beside the water heater upstairs. | $200 | $400 |
 
 
 
-## Remove plaster and wood slats in downstairs kitchens
+## Kitchen Prep
 
 Loren will:  
 
@@ -269,7 +285,7 @@ Carefully remove and retain door trim and baseboards from interior walls.
 
 Upstairs wall removal, craft room ceiling. upstairs counter and cabinets, closets.
 
-Move water heater either into attic or below stairway.
+Later, water heater will reside either in attic or below stairway.
 
 ## Downstairs Kitchen
 
