@@ -6,9 +6,6 @@
 - Work can begin with upstairs bathroom wall removal, new walls and reinforcement.  
 - Water heater will be moved into attic by removing beam near attic ladder.  
 
-|  |||
-|---|---|---|
-| Straigten main stairway using existing treads. Two new hand rails | $2,000 | $3,500 |
 
 <br><br>
 <a href="../floorplan/img/layout-2nd-close.jpg"><img src="../floorplan/img/layout-2nd-close.jpg" style="width:100%; max-width:1200px"></a><br>
@@ -19,6 +16,8 @@ Existing pipe locations: [Bathroom wall photos](https://docs.google.com/document
 
 |  |||
 |---|---|---|
+| After bumpout and new downstairs bathroom is added, straigten main stairway using existing treads. Two new hand rails | $2,000 | $3,500 |
+| &nbsp; |||
 | **Reconfigure floor system and shower frame** | | |
 | Add floor system in former stairway. New walls. Add stairway door to Craft Room | $3,000 | $5,500 |
 | Add framework and basin for tub or shower | $800 | $1,200 |
