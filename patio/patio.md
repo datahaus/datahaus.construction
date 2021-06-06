@@ -13,3 +13,7 @@
 | Roof of patio (future floor) using reclaimed 2x4s. Probably nail laminated. | $1,400 | $4,300 |
 | Roofing material on patio. | $800 | $3,300 |
 | Gutters on north and south sides.  Chains to drain west corners. | $600 | $800 |
+
+<br>
+
+The patio is the lower level of the [full addition](../addition)
