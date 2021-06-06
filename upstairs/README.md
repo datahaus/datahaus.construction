@@ -3,9 +3,8 @@
 # Upstairs - Bathroom and Craft Room
 
 
-- Prep will begin with upstairs wall removal and reinforcement.
-- Craft room ceiling will be replaced with drywall. upstairs counter and cabinets, closets.
-- Water heater will be moved into attic by removing beam when reinforcing attic lader or moving walls.  
+- Work can begin with upstairs bathroom wall removal, new walls and reinforcement.  
+- Water heater will be moved into attic by removing beam near attic ladder.  
 
 |  |||
 |---|---|---|
