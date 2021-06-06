@@ -3,12 +3,9 @@
 
 - Mass timber surrounding patio is framework for future addition    
 
-<a href="../exterior/img/rear/patio-frame.jpg"><img src="../exterior/img/rear/patio-frame.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
-
 <a href="../patio/img/patio-south.jpg"><img src="../patio/img/patio-south.jpg" style="width:100%; max-width: 1000px"></a><br><br>
 
-
-
+<a href="../exterior/img/rear/patio-frame.jpg"><img src="../exterior/img/rear/patio-frame.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
 
 ||||
 |---|---|---|

@@ -1,15 +1,130 @@
+# Kitchen and Craftroom
 
-[Home](../) | [Phases](../phases/)
-
-# Kitchen
-
-Resides in location of current kitchen. Window wall moved 3' north. Pantry removed. Cabinets added to south side.
+Same location as current kitchens. North wall moved 3' outward. Existing pantries removed. Cabinets added to south side of kitchen.
 
 <!--
 <a href="img/kitchen.jpg"><img src="img/kitchen.jpg" style="width:100%; max-width: 1200px"></a><br><br>
 -->
 
-<a href="img/kitchen.jpg"><img src="img/kitchen.jpg" style="width:100%; max-width: 1200px"></a><br>
+
+
+
+## Downstairs Kitchen
+
+- Downstairs kitchen, counters and cabinets
+- The old bathroom will be converted to a pantry
+
+<a href="img/kitchen.jpg"><img src="img/kitchen.jpg" style="width:100%; max-width: 1200px"></a><br><br>  
+
+<a href="img/kitchen-floorplan.jpg"><img src="img/kitchen-floorplan.jpg" style="width:100%; max-width: 1200px"></a>
+<br>
+
+
+## Interior Prep
+
+After bumpout of exterior wall and addition of new north windows:  
+
+- Create envelope of plastic within room to prevent any dust from moving into house or falling between floor boards. 
+- Remove gas and water pipe within pantry (disconnected in prior phase). 
+- Carefully remove and retain door trim and baseboards from interior walls.  
+- Remove ceiling plaster and slats from both kitchen and craft room.  
+- Tie slats in bundles to prevent puncturing contrator bags.  
+- Remove old pipes from within south wall of kitchen.  
+- Retain both sinks for now.  
+- Park disposal truck on bass for debris. (We'll save some of the slats and wood). 
+- On both levels, remove ceiling plaster and one side of south wall.
+- On both levels, remove ceiling slats. Add braces between ceiling beams to add stability.  
+- On both levels, remove previous exterior north wall of kitchen and craftroom.
+- DO NOT remove either side of exterior west wall at this stage.   
+
+
+||||
+|---|---|---|
+| **** | | |
+| Kitchen and Craft room wall and ceiling removal | $1,000 | $2,500 |
+| &nbsp; | | |
+
+## Plumbing
+
+||||
+|---|---|---|
+| **Plumbing** | | |
+| Update incoming water valve under house to increase pressure. | $300 | $600 |
+| Plumbing for new bathrooms, including pipe to attic. | $1,200 | $4,000 |  
+| Move water heater to attic. Hook up water and gas lines. | $700 | $900 |
+| Plumbing for sink in kitchen island. (4" Drain pipe already runs to kitchen. Add "T" to for new bathroom.) | $500 | $800 |
+| Plumbing for sink in craftroom | $100 | $200 |
+
+
+
+## Drywall, Interior Trim, Interior Painting, Stairway Completion, Interior Doors
+||||
+|---|---|---|
+| Strengthen or pivot pulldown stairway opening after moving water heater. | $200 | $400 |
+| **Drywall and Painting** | | |
+| Expand window opening into doorway to upstairs laundry area | $200 | $800 |
+| Drywall new addition, kitchen and craftroom | $3,000 | $5,000 |
+| Interior painting | $2,000 | $5,500 |
+| Switch and plug covers | $400 | $800 |
+| &nbsp; |||
+| **Interior Trim and Door Carpentry** | | |
+| Build bathroom door frame from our wood trim collection. Hang door. Use 1 of 5 doors in attic | $500 | $800 |
+| Hang additional doors currently in attic | $800 | $1,200 |
+| Large sliding bathroom door | $800 | $1,200 |
+| Door Hardware - Repair/upgrade doorknobs - Front door, bedroom, upstairs bathroom | $400 | $800 |
+
+
+||||
+|---|---|---|
+| New ceiling drywall.  | $1,000 | $2,000 |
+| Kitchen and Craft room - Add tiles to east walls. | $1,000 | $2,000 |
+| Kitchen - New counter and sink. | $1,400 | $4,000 | 
+| Craft room - New counter and sink. When full addition is added, these will shift a few inches west. | $1,400 | $2,000 | 
+| Disconnect old sinks. Retain garbage disposal. | $200 | $400 |
+| Craft room - Undercounter fridge | $1,400 | $2,000 |
+
+
+## Tile and counter projects
+||||
+|---|---|---|
+| **New bathroom and laundry area** | | |
+| Fixtures in new bathroom, shelf-cabinets and laundry area | $10,000 | $15,000 |
+| [Mirror in front of window](https://www.houzz.com/photos/mirror-in-front-of-window-phbr0lbl-bl~l_51234) | $400 | $800 |
+| Wall cubbies in master bedroom - north wall | $500 | $800 |
+| &nbsp; |||
+| **Tile projects** | | |
+| Tile in upstairs shower within new bathroom | $800 | $1,200 |
+| Tile in downstairs kitchen | $800 | $1,200 |
+| Tile in craftroom | $800 | $1,200 |
+
+
+## Craftroom and Kitchen - Counters and Cabinets
+||||
+|---|---|---|
+| **Craftroom counter and sink** | | |
+| Add new "L" shapped counter and cabinets with sink in craftroom. Tall cabinets on south side of craftroom.<br>(At this point, family will shift to using craftroom while downstairs kitchen is remodeled.) | $1,800 | $3,500 |
+| &nbsp; |||
+| **Downstairs Kitchen -  Remove hallway walls, Ceiling, Extend floor 3'** | | |
+| Deactivate existing downstairs kitchen plumbing, electricity, remove counters and remove wall behind sink (reuse windows) | $400 | $500 |
+| Remove wall above doorway, remove south side of hall closet, add framework | $400 | $800 |
+| Sliding door on east side of kitchen. Reinforce wall | $800 | $1,500 |
+| Drywall kitchen ceiling | $400 | $800 |
+| Extend downstairs kitchen hardwood floor surface 3' into bumpout and resurface floor with [PolyWhey® 3500 Satin](https://vermontnaturalcoatings.com/product/polywhey-3500-wood-floor-finish/) - PolyWhey 3500 has 65% less VOC content than the standard that most water-based finishes try to meet, while PolyWhey 2500 has 50% less. | $2,000 | $4,000 |
+| &nbsp; |||
+| **Downstairs Cabinetry** | | |
+| Downstairs kitchen - "L" shapped counter, maybe quartz. Cabinets including south wall, sink, hookup dishwasher | $7,000 | $15,000 |
+| Downstairs kitchen oven, either a hood or vent | $1,200 | $4,000 |
+| Cabinet-size freezer for new kitchen - Might place upstairs as island initially | $1,400 | $1,800 |
+| &nbsp; |||
+| **Upstairs Cabinetry** | | |
+| Upstairs craft room - cabinet on south wall | $1,500 | $1,800 |
+| Craft room wood shelf | $400 | $600 |
+
+<br><br>
+<a href="../kitchen/img/kitchen.jpg"><img src="../kitchen/img/kitchen.jpg" style="width:100%; max-width: 1200px"></a><br>
+<a href="../kitchen/">More Kitchen Images</a><br>
+
+
 
 Spot lights on walls (adjustable eyeball). Hookups for 2 or 3 pendant lights over island.
 No divider in sink. Concealed trash and recycling bin pull out to left of sink.  
@@ -57,41 +172,9 @@ Home Depot Minwax White wash -
 
 
 -->
-<div id="craftroom"></div>
-
-# Craft Room
-
-Designed for conversion to an upstairs guest kitchen by adding undercounter drawer-refrigerator.<br><br>
-
-<a href="../upstairs/img/craft.jpg"><img src="../upstairs/img/craft.jpg" style="width:100%; max-width: 1200px"></a><br><br>
-
-<a href="img/craftroom.png"><img src="img/craftroom.png" style="width:100%; max-width: 1200px"></a><br><br>
-
-
-<a href="img/undercounter-kitchen-refrigerator-drawers.jpg"><img src="img/undercounter-kitchen-refrigerator-drawers.jpg" style="width:100%; max-width:400px"></a><br>
-<a href="https://www.google.com/search?q=fridge+under+counter&sxsrf=ALeKk02GU5j0dWZngOF80UpdOTu5UKlKqg:1614549505261&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi7u-7NyY3vAhWCxFkKHWrKDOwQ_AUoAnoECAcQBA&biw=1536&bih=885&dpr=2#imgrc=QSgLMOCidC_flM">more undercounter examples</a><br><br>
-
-<!--
-Bathroom
-
-Genny Drash used Minwax Wood Finish (Penetrates, Stains & Seals) - Classic Grey 271 - for Poplar wood walls, no drywall 
-
--->
-
-<a href="img/shelves/woodshelves1.jpg"><img src="img/shelves/woodshelves1.jpg" style="max-width:400px; max-height:400px; float:left"></a>
-<div style="clear:both"></div>
-
-<a href="img/shelves/pullout1.jpg"><img src="img/shelves/pullout1.jpg" style="max-width:400px; max-height:400px; float:left"></a>
-<a href="img/shelves/pullout2.jpg"><img src="img/shelves/pullout2.jpg" style="max-width:400px; max-height:400px; float:left"></a>
-<a href="img/shelves/pullout3.jpg"><img src="img/shelves/pullout3.jpg" style="max-width:400px; max-height:400px; float:left; margin-right:30px"></a>
-<a href="img/shelves/pullout4.jpg"><img src="img/shelves/pullout4.jpg" style="max-width:400px; max-height:400px; float:left"></a>
-<div style="clear:both"></div>
-
-<a href="img/shelves/closet1.jpg"><img src="img/shelves/closet1.jpg" style="max-width:400px; max-height:400px; float:left"></a><br>
-<div style="clear:both"></div>
 
 
 
-[Home](../) | [Phases](../phases/)
+[Home](../) | [Next phase: Upstairs](../upstairs/) | [Phases](../phases/)
 
 

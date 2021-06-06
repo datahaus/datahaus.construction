@@ -1,5 +1,3 @@
-[Home](../) | [Phases](../phases/)
-
 # Full Addition
 
 ## Phase 6 - Framework, Roof, Insulation, Windows, Siding
@@ -54,7 +52,11 @@
 <a href="../framework/img/framework-west.jpg"><img src="../framework/img/framework-west.jpg" style="width:100%; max-width: 1200px"></a><br>
 
 <br><br>
-<a href="../exterior/img/west.jpg"><img src="../exterior/img/west.jpg" style="width:100%; max-width: 1200px"></a><br>
+<a href="../exterior/img/west.jpg"><img src="../exterior/img/west.jpg" style="width:100%; max-width: 1200px"></a><br>  
+
+<a href="../floorplan/img/layout-2nd.jpg"><img src="../floorplan/img/layout-2nd.jpg" style="width:100%; max-width:1200px"></a><br>
+<br><br>
+<a href="../upstairs">Craft room details</a><br>
 
 ## Phase 7 - Exterior Painting, Gutters, Replace or Seal Existing Storm Windows, Remove Bars
 
@@ -88,87 +90,15 @@ To get quote from:<br>
 | Mini-split above upstairs bathroom | $2,000 | $2,800 |
 | &nbsp; |||
 
-## Phase 10 - Drywall, Interior Trim, Interior Painting, Stairway Completion, Interior Doors
-||||
-|---|---|---|
-| **Drywall and Painting** | | |
-| Expand window opening into doorway to upstairs laundry area | $200 | $800 |
-| Drywall new addition, kitchen and craftroom | $3,000 | $5,000 |
-| Interior painting | $2,000 | $5,500 |
-| Switch and plug covers | $400 | $800 |
-| &nbsp; |||
-| **New Stairways** | | |
-| Complete main stairway with treads and hand rail | $2,000 | $3,500 |
-| Carefully remove treads of existing front stairway for reuse as attic stairway. Resurface treads (Patch, sand, stain, seal). Might flip treads. | $800 | $1,200 |
-| Complete attic stairway with reused treads and new hand rail | $400 | $800 |
-| Build 3 step wood stairway and landing on south side of living room | $900 | $1,200 |
-| Build 3 step wood stairway to master bedroom | $500 | $800 |
-| Build 3 step wood stairway to new bathrooms | $400 | $600 |
-| &nbsp; |||
-| **Interior Trim and Door Carpentry** | | |
-| Build bathroom door frame from our wood trim collection. Hang door. Use 1 of 5 doors in attic | $500 | $800 |
-| Hang additional doors currently in attic | $800 | $1,200 |
-| Large sliding bathroom door | $800 | $1,200 |
-| Door Hardware - Repair/upgrade doorknobs - Front door, bedroom, upstairs bathroom | $400 | $800 |
+## Phase 10 - Steps/Woodwork/Framing/Doors
 
-
-## Phase 11 - Tile and counter projects
-||||
-|---|---|---|
-| Disconnect old sink in craftroom. Retain garbage disposal. | $50 | $100 |
-| &nbsp; |||
-| **New bathroom and laundry area** | | |
-| Fixtures in new bathroom, shelf-cabinets and laundry area | $10,000 | $15,000 |
-| [Mirror in front of window](https://www.houzz.com/photos/mirror-in-front-of-window-phbr0lbl-bl~l_51234) | $400 | $800 |
-| Wall cubbies in master bedroom - north wall | $500 | $800 |
-| &nbsp; |||
-| **Tile projects** | | |
-| Tile in upstairs shower within new bathroom | $800 | $1,200 |
-| Tile in downstairs kitchen | $800 | $1,200 |
-| Tile in craftroom | $800 | $1,200 |
-
-<br><br>
-<a href="../kitchen/#craftroom">Craftroom Images</a><br>
-<br><br>
-<a href="../floorplan/img/layout-2nd.jpg"><img src="../floorplan/img/layout-2nd.jpg" style="width:100%; max-width:1200px"></a><br>
-
-<br><br>
-<a href="../floorplan/img/layout-2nd-close.jpg"><img src="../floorplan/img/layout-2nd-close.jpg" style="width:100%; max-width:1200px"></a><br>
-
-
-## Phase 12 - Craftroom and Kitchen - Counters and Cabinets
-||||
-|---|---|---|
-| **Craftroom counter and sink** | | |
-| Add new "L" shapped counter and cabinets with sink in craftroom. Tall cabinets on south side of craftroom.<br>(At this point, family will shift to using craftroom while downstairs kitchen is remodeled.) | $1,800 | $3,500 |
-| &nbsp; |||
-| **Downstairs Kitchen -  Remove hallway walls, Ceiling, Extend floor 3'** | | |
-| Deactivate existing downstairs kitchen plumbing, electricity, remove counters and remove wall behind sink (reuse windows) | $400 | $500 |
-| Remove wall above doorway, remove south side of hall closet, add framework | $400 | $800 |
-| Sliding door on east side of kitchen. Reinforce wall | $800 | $1,500 |
-| Drywall kitchen ceiling | $400 | $800 |
-| Extend downstairs kitchen hardwood floor surface 3' into bumpout and resurface floor with [PolyWhey® 3500 Satin](https://vermontnaturalcoatings.com/product/polywhey-3500-wood-floor-finish/) - PolyWhey 3500 has 65% less VOC content than the standard that most water-based finishes try to meet, while PolyWhey 2500 has 50% less. | $2,000 | $4,000 |
-| &nbsp; |||
-| **Downstairs Cabinetry** | | |
-| Downstairs kitchen - "L" shapped counter, maybe quartz. Cabinets including south wall, sink, hookup dishwasher | $7,000 | $15,000 |
-| Downstairs kitchen oven, either a hood or vent | $1,200 | $4,000 |
-| Cabinet-size freezer for new kitchen - Might place upstairs as island initially | $1,400 | $1,800 |
-| &nbsp; |||
-| **Upstairs Cabinetry** | | |
-| Upstairs craft room - cabinet on south wall | $1,500 | $1,800 |
-| Craft room wood shelf | $400 | $600 |
-
-<br><br>
-<a href="../kitchen/img/kitchen.jpg"><img src="../kitchen/img/kitchen.jpg" style="width:100%; max-width: 1200px"></a><br>
-<a href="../kitchen/">More Kitchen Images</a><br>
-
-
-## Woodwork/Framing/Doors
-
-Loren's uncle may build screens. Also considering other sliding wall options.
 <!-- (8' 11 9/16" by 4'5". Total width: 17' 1.25") -->
 ||||
 |---|---|---|
+| **Add Interior Steps** | | |
+| Build step on south side of living room | $900 | $1,200 |
+| Build 2 step wood stairway to master bedroom | $500 | $800 |
+| Build 2 step wood stairway to new bathrooms | $400 | $600 |
 | &nbsp; |||
 | **Sliding Wall - 4 Door Panels** | | |
 | 4 large sliding barn doors or shoji screens between master bedroom and craft room -  | $1,200 | $3,000 |
@@ -180,6 +110,8 @@ Loren's uncle may build screens. Also considering other sliding wall options.
 -->
 
 <br>
+Loren's uncle may build screens. Also considering other sliding wall options.<br>  
+
 <a href="../bedroom/img/shoji/triple-barn-doors-amazon.jpg"><img src="../bedroom/img/shoji/triple-barn-doors-amazon.jpg" style="max-height:400px"></a>
 <a href="../bedroom/img/shoji/doors.jpg"><img src="../bedroom/img/shoji/doors.jpg" style="max-height:400px"></a>
 <a href="../bedroom/img/shoji/shoji-groove.jpg"><img src="../bedroom/img/shoji/shoji-groove.jpg" style="max-height:400px"></a>
@@ -187,10 +119,11 @@ Loren's uncle may build screens. Also considering other sliding wall options.
 
 
 
-## Phase 10 - Grey Water System
+## Phase 11 - Grey Water System
 
 2 attic grey water tanks will be used for BOTH toilet flushing and watering the yard.  
 3 rain barrel tanks below the porch steps will be pumped into the 2 attic tanks.  
+3 additional tanks in basement (optional)  
 
 ||||
 |---|---|---|

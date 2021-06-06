@@ -13,11 +13,16 @@ Zero lot line variance - Add photos of neighbors on Bass
 -->
 # Construction Phases
 
-<a href="sketchup/721-Grant-Street.skp">Download SketchUp Model</a> 
+<a href="sketchup/721-Grant-Street.skp">Download SketchUp Model</a> - [Rate Trends (Freddie Mac)](http://www.freddiemac.com/pmms/) 
+and [BankRates](https://www.bankrate.com/mortgages/mortgage-rates/?mortgageType=Refinance&partnerId=br3&pid=br3&pointsChanged=false&refinanceCashOutAmount=0&refinanceLoanAmount=384000&refinanceLoanTerms=30yr&refinancePoints=All&refinancePropertyType=SingleFamily&refinancePropertyUse=PrimaryResidence&refinancePropertyValue=480000&searchChanged=false&ttcid&userCreditScore=740&userFha=false&userVeteranStatus=NoMilitaryService&zipCode=30315)
 
-- 2021 - [Bathroom, Basement, Kitchen Bumpout](#planning) - Planning, new downstairs bathroom, basement, kitchen bumpout
-- 2022 - [Upstairs Craft Room and Bathroom](../upstairs/) - Straighten stairway, upstairs bathroom, create downstairs pantry 
-- 2022 - [Patio](../patio/) - Mass timber over patio  
+
+
+
+- 2021 - [Bathroom, Basement, Side Bumpout](#planning) - Planning, new downstairs bathroom, expand kitchen 3', basement stairway  
+- 2021 - [Upstairs Bathroom and Craft Room](../upstairs/) - Straighten stairway, upstairs bathroom, create downstairs pantry 
+- 2021 - [Downstairs Kitchen](../kitchen) - Counters and cabinets in downstairs kitchen, craftroom and new pantry  
+- 2022 - [Patio](../patio/) - Mass timber over outdoor kitchen  
 - 2023 - [Ongoing Projects](../projects/) - Solar, move downstais electric box to basement
 - 2027 - [Full Addition](../addition/) - Master bedroon, master bathroom, attic shed roofs
 
@@ -84,14 +89,14 @@ Later: Bathroom and stairway reconfigure during [upstairs projects](../upstairs)
 
 
 <a href="../phases/img/basement/initial.jpg"><img src="../phases/img/basement/initial.jpg" style="width:100%; max-width: 1000px"></a><br>
-Before removal of laundry and tree(s)<br><br> 
+Before removal of laundry<br><br> 
 
 Loren will:  
 
-Remove the rear laundry areas.  
-Remove one of two trees that are close together, following approval by city. Using climbing harness to remove limbs.  
-Work with local handyman to add more jacks under house.  
-Remove brick wall where trash cans reside. Retain bricks for reuse.  
+- Remove the rear laundry areas.  
+- Remove one or two trees that are close together, following approval by city. (Using climbing harnesses to first remove limbs.)  
+- Work with local handyman to add more jacks under house.  
+- Remove brick wall where trash cans reside. Retain bricks for reuse.  
 
 
 
@@ -101,7 +106,7 @@ Remove brick wall where trash cans reside. Retain bricks for reuse.
 Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 2014) - Don't remember which house.
 -->
 
-- Adding the 4' basement stairway will occur after the adjacent basement wall is added so we have structural support while dirt is removed.
+- Digging the 4' basement stairway area will occur after the adjacent basement wall is added so we have structural support and an overhead rain cover while dirt is removed near the house.
 
 | **Temporarily unhook HVAC** | | |
 |---|---|---|
@@ -253,6 +258,24 @@ For reference:
 <a href="../exterior/img/porch.jpg"><img src="../exterior/img/porch.jpg" style="width:100%; max-width:1200px"></a> 
 
 
+## STEP Warmfloor
+
+We will probably implement basement floor heatsink during ongoing projects to coincide with solar panels:  
+
+STEP Warmfloor gives 2.5 times more heat output than cable systems, 2.08 times more heat output than hydronic systems, and up to 60% more efficient than conventional forced air systems.  
+
+[https://www.warmfloor.com/green-technology/sustainable-technology/](https://www.warmfloor.com/green-technology/sustainable-technology/)
+
+It could be placed under wood to create our gym-livingroom floor, rather than pouring more concrete on the hollow core slabs for hydronics. A thermal barrier between the basement slab and the element would add efficiency for a basement install. In the livingroom we would heat the slab during the day to radiate throughout the night, so no thermal barrier would be used under the livinging room floor surface.  
+
+[https://youtu.be/q2c8cLrZYkc?t=184](https://youtu.be/q2c8cLrZYkc?t=184)
+
+A thermal barrier between the slab and the element adds efficiency  
+
+Insulation Recommendations - [from video](https://youtu.be/q2c8cLrZYkc?t=1507)  
+- Rolled cork
+- Cerazorb
+- Healthy Choice sound solution pad
 
 
 ## Bumpout
@@ -268,45 +291,6 @@ For reference:
 | **Bumpout** | | |
 | Bumpout and windows | $15,000 | $30,000 |
 | Opening to bumpout area cut at small window beside the water heater upstairs. | $200 | $400 |
-
-
-
-## Kitchen Prep
-
-Loren will:  
-
-Remove plaster and slats from ceiling in downstairs kitchen.  
-Remove old gas and water pipes.  
-Before removal, create envelope of plastic within room to prevent any dust from moving into house or falling between floor boards. Remove old pipes from within south wall of kitchen.  
-Tie slats in bundles to prevent puncturing contrator bags.  
-WILL NOT yet remove either side of exterior two walls on both levels.  
-Carefully remove and retain door trim and baseboards from interior walls.  
-
-
-Upstairs wall removal, craft room ceiling. upstairs counter and cabinets, closets.
-
-Later, water heater will reside either in attic or below stairway.
-
-## Downstairs Kitchen
-
-- Downstairs kitchen, counters and cabinets
-- The old bathroom will be converted to a pantry
-
-||||
-|---|---|---|
-| **On both levels, remove kitchen ceiling plaster and one side of south wall.** | | |
-| Park disposal truck at rear kitchen door for debris (plaster and wood slats). | $400 | $600 |
-| Remove ceiling plaster and south interior wall plaster in both kitchens.  | $600 | $800 |
-| &nbsp; | | |
-
-||||
-|---|---|---|
-| **Plumbing** | | |
-| Install new incoming valve under house to increase pressure. | $300 | $600 |
-| Plumbing for new bathrooms, including pipe to attic. | $1,200 | $4,000 |  
-| Move water heater to attic. Hook up water and gas lines. | $700 | $900 |
-| Plumbing for sink in kitchen island. (4" Drain pipe already runs to kitchen. Add "T" to for new bathroom.) | $500 | $800 |
-| Plumbing for sink in craftroom | $100 | $200 |
 
 
 ## Reposition existing AC units

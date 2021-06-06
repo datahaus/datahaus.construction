@@ -1,6 +1,11 @@
 
 ## Survey and Dimensions
 
+<a href="floorplan/img/survey.jpg"><img src="floorplan/img/survey.jpg" style="width:100%; max-width: 1200px"></a><br><br> 
+
+Existing house indicated in blue.  Laundry area will be removed from back.  <a href="sketchup/721-Grant-Street.skp">SketchUp Model</a>
+
+<a href="floorplan/img/floorplan.jpg"><img src="floorplan/img/floorplan.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
 
 ### Existing:
 2,438 ft² with laundry areas, which will be removed. (Dimension source: Fulton county website)    
@@ -22,9 +27,6 @@ But why not 4,125 ft²  (7,500 ft² x 55%)?
 
 R5 Zone - Fulton County
 <!-- Total with unfinished basement and attic: 5050.46 ft² -->
-
-
-<a href="floorplan/img/survey.jpg"><img src="floorplan/img/survey.jpg" style="width:100%; max-width: 1200px"></a><br><br> 
 
 <!-- 
 Survey in January 2014
@@ -88,11 +90,5 @@ Hines Interests Limited Partnership, a global real estate investment firm, sough
 
 On top of glulam columns and beams, decking made of nail laminated timber (NLT) panels constructed in partnership with Georgia Works. Locally salvaged wood and FSC-certified southern yellow pine. 2”x 6” boards nailed to 2”x 4” spacers, creating floor panels that measure roughly 10’x10’ each. https://gfagrow.org/timber-in-georgias-first-living-building/ 
 -->  
-
-[Home](./) | 
-<a href="phases">Phases</a> | 
-[Kitchen](kitchen/) | 
-<a href="livingroom">Living Room</a>
-
 
 

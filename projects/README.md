@@ -1,9 +1,6 @@
-[Home](../) | [Phases](../phases/)
-
-
 # Ongoing Projects
 
-In addition to [upstairs work using cashout](../upstairs/)
+Following [upstairs projects](../upstairs/)
 
 
 ## Repointing Bricks
@@ -94,10 +91,16 @@ Compression of north wall causing plaster to bulge:
 <a href="../phases/img/AC/AC-enclosure.jpg"><img src="../phases/img/AC/AC-enclosure.jpg" style="width:100%; max-width:1200px"></a>  
 <br>
 
-## Porch Updates
+## Front Porch Updates
 ||||
 |---|---|---|
 | Existing front porches:  New ceilings with recessed lighting, dimmer. Remove 2 extra columns by bricks and add 2x11 in ceiling. Add/update molding and trim where damaged or missing.  | $800 | $3,000 |
+
+## Fire Pit
+||||
+|---|---|---|
+| Add fire pit in back yard | $800 | $1,000 |
+
 
 ## Light-well
 ||||
