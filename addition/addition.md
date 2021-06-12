@@ -39,14 +39,9 @@
 | **North Storage Doors** |||
 | Add strong metal door on north storage compartment | $400 | $1,000 |
 | &nbsp; |||
-|**Two Stairways (rough)**|||
-| 2 wooden staircases (rough) | $1,000 | $2,000 |
-| &nbsp; |||
 |**Remove Old Roof**|||
 | Remove old roof under newly added shed roof. | $1,000 | $2,000 |
 | &nbsp; |||
-| **Existing upstairs bathroom** | | |
-| Craftroom walls and ceiling, move door frame to create bathroom sink area. Reinforce. | $1,000 | $2,000 |
 
 <br><br>
 <a href="../framework/img/framework-west.jpg"><img src="../framework/img/framework-west.jpg" style="width:100%; max-width: 1200px"></a><br>

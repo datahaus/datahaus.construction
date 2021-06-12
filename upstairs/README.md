@@ -8,6 +8,12 @@
 
 
 <br><br>
+Prior to moving walls and straightening stairway:  
+
+<a href="../bathroom/upstairs/img/upstairs-gas-pipe.jpg"><img src="../bathroom/upstairs/img/upstairs-gas-pipe.jpg" style="width:100%; max-width: 1200px"></a><br>
+
+<br><br>
+After bumpout and moving walls:<br><br>
 <a href="../floorplan/img/layout-2nd-close.jpg"><img src="../floorplan/img/layout-2nd-close.jpg" style="width:100%; max-width:1200px"></a><br>
 
 ## Upstairs Bathroom  
@@ -38,11 +44,6 @@ Existing pipe locations: [Bathroom wall photos](https://docs.google.com/document
 Green wall with gas pipe added in prior phase:  
 
 <a href="../bathroom/upstairs/img/upstairs-bathroom.jpg"><img src="../bathroom/upstairs/img/upstairs-bathroom.jpg" style="width:100%; max-width: 1200px"></a><br><br> 
-
-Prior to moving walls and straightening stairway:  
-
-<a href="../bathroom/upstairs/img/upstairs-gas-pipe.jpg"><img src="../bathroom/upstairs/img/upstairs-gas-pipe.jpg" style="width:100%; max-width: 1200px"></a><br><br> 
-<br>
 
 
 ## Electrical
@@ -88,10 +89,13 @@ Genny Drash used Minwax Wood Finish (Penetrates, Stains & Seals) - Classic Grey 
 <a href="img/shelves/pullout4.jpg"><img src="img/shelves/pullout4.jpg" style="max-width:400px; max-height:400px; float:left"></a>
 <div style="clear:both"></div>
 
+<!--
 <a href="img/shelves/closet1.jpg"><img src="img/shelves/closet1.jpg" style="max-width:400px; max-height:400px; float:left"></a><br>
+-->
+
 <div style="clear:both"></div>
 
-
+[View Downstairs Kitchen](../kitchen/)
 
 
 

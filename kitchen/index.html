@@ -10,11 +10,14 @@
   <script type="text/javascript" src="../js/showdown.min.js"></script>
   <script type="text/javascript" src="../js/display.js"></script>
   <link rel="stylesheet" href="../css/display.css" />
-  <script>
-    $(document).ready(function () {
-      loadMarkupPage("README.md", "readmeDiv", "_parent");
-    });
+
+   <script>
+  $(document).ready(function () {
+    loadMarkupPage("README.md", "readmeDiv", "_parent");
+    addColumns();
+  });
   </script>
+
 </head>
 
 <body style="font-family: Lato, sans-serif;">
@@ -31,7 +34,13 @@
 <a href="../addition">Addition</a> | 
 <a href="../livingroom">Living Room</a>
 
-  <div id="readmeDiv"></div>
+<div id="readmeDiv"></div>
+
+<br>
+<div id="totals"></div>
+<br>
+
+
 </div>
 
 </body>

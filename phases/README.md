@@ -19,12 +19,12 @@ and [BankRates](https://www.bankrate.com/mortgages/mortgage-rates/?mortgageType=
 
 
 
-- 2021 - [Bathroom, Basement, Side Bumpout](#planning) - Planning, new downstairs bathroom, expand kitchen 3', basement stairway  
-- 2021 - [Upstairs Bathroom and Craft Room](../upstairs/) - Straighten stairway, upstairs bathroom, create downstairs pantry 
-- 2021 - [Downstairs Kitchen](../kitchen) - Counters and cabinets in downstairs kitchen, craftroom and new pantry  
-- 2022 - [Patio](../patio/) - Mass timber over outdoor kitchen  
-- 2023 - [Ongoing Projects](../projects/) - Solar, move downstais electric box to basement
-- 2027 - [Full Addition](../addition/) - Master bedroon, master bathroom, attic shed roofs
+- 2021 - [Bathroom, Basement, Side Bumpout](#planning) - Planning, new downstairs bathroom, expand kitchen 3', basement stairway ($120,000)  
+- 2021 - [Upstairs Bathroom, Stairway, plus Craft Room walls](../upstairs/) - Straighten stairway, upstairs bathroom, create downstairs pantry ($15,000)  
+- 2021 - [Downstairs Kitchen and Craftroom cabinets](../kitchen) - Counters and cabinets in downstairs kitchen, craftroom and new pantry ($70,000)  
+- 2022 - [Patio](../patio/) - Mass timber over outdoor kitchen ($15,000)  
+- 2023 - [Ongoing Projects](../projects/) - Solar, move downstais electric box to basement ($55,000)
+- 2027 - [Master and Attic Addition](../addition/) - Master bedroon, master bathroom, attic shed roofs ($150,000)  
 
 
 ## Planning
@@ -331,5 +331,9 @@ Two exterior mini-split units will be added in a later phase.
 <div id="totals"></div>
 <br>
 
+<h2>Next Phase</h2>
+<a href="../exterior/img/rear/patio-frame.jpg"><img src="../exterior/img/rear/patio-frame.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
+
+
 ---
-[Next: Upstairs bathroom and craftroom](../upstairs/) 
+Next: [Patio Mass Timber](../patio/)  and [Upstairs Bathroom and Craftroom](../upstairs/) 
