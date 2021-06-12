@@ -16,9 +16,8 @@
 ||||
 |---|---|---|
 | **Framework** | | |
-| Framework including mass timber columns and attic roof (plus $10,000 in "[projects](../projects/)")<br>Use wood removed from west side of roof to increase northeast height about 1.5 feet | $10,000 | $40,000 |
-| "Base Isolated" House - pads under mass timber columns to dampen earthquake vibration | $500 | $1,000 |
-| Remove pulldown attic stairway while adding or extending a couple joists. Retain attic stairs for temporary use within master bedroom. | $800 | $1,200 |
+| Framework including mass timber columns and attic roof (plus $10,000 in "[projects](../projects/)")<br>Use wood removed from west side of roof to increase northeast height about 1.5 feet | $10,000 | $35,000 |
+| Remove pulldown attic stairway while closing opening in joists. Retain attic stairs for temporary use within master bedroom. | $800 | $1,200 |
 | Create north balcony by extending joists over bumpout. | $3,000 | $4,500 |
 | Porch railings for attic porch | $800 | $1,200 |
 | &nbsp; |||
@@ -29,18 +28,15 @@
 | Siding on addition | $4,000 | $7,000 | 
 | &nbsp; |||
 | **Exterior Doors and Windows** |||
-| 2 exterior doors | $2,000 | $3,000 |
+| 2 exterior doors - west and south | $2,000 | $3,000 |
 | Approximately 30 windows, including window between attic and master bedroom.<br>Consider triple pane windows with argon fill - maybe on north side. If we use Passive solar windows, only top half of upper south windows. | $18,000 | $25,000 |
 | May move windows from kitchens to south side | | |
-| &nbsp; |||
-| **Open wall as temporary doorway** |||
-| Cut doorway at top of stairs under existing square window by water heater. Retain trim. | $400 | $500 |
 | &nbsp; |||
 | **North Storage Doors** |||
 | Add strong metal door on north storage compartment | $400 | $1,000 |
 | &nbsp; |||
-|**Remove Old Roof**|||
-| Remove old roof under newly added shed roof. | $1,000 | $2,000 |
+|**Remove remaining west wall and old roof**|||
+| Remove walls and old roof under newly added shed roof. | $1,000 | $2,000 |
 | &nbsp; |||
 
 <br><br>
@@ -73,11 +69,11 @@ To get quote from:<br>
 ||||
 |---|---|---|
 | Electrical work and lighting | $8,000 | $18,000 |
-| Separate fuse boxes for new electric work. Located in basement and attic.  | $500 | $1,000 |
+| Separate fuse boxes for new electric work. Located in basement and attic. Home automation opportunity?  | $800 | $1,500 |
 | “Whole-house protector” $178 on Amazon for 140,000 amp Siemens FS140 Whole House Surge Protector. | $300 | $500 |
 
 ## Phase 9 - Mini-splits
-| [Mini-split locations](../livingroom/#minisplits) |||
+| See [Mini-split locations](../livingroom/#minisplits) |||
 |---|---|---|
 | Two exterior mini-split units | $2,000 | $3,000 |
 | Mini-split in Downstairs Kitchen | $1,800 | $2,500 | 
@@ -91,9 +87,9 @@ To get quote from:<br>
 ||||
 |---|---|---|
 | **Add Interior Steps** | | |
-| Build step on south side of living room | $900 | $1,200 |
-| Build 2 step wood stairway to master bedroom | $500 | $800 |
-| Build 2 step wood stairway to new bathrooms | $400 | $600 |
+| Build 1 step on south side of living room | $900 | $1,200 |
+| Build 1 step to master bedroom | $500 | $800 |
+| Build 1 step to new bathrooms | $400 | $600 |
 | &nbsp; |||
 | **Sliding Wall - 4 Door Panels** | | |
 | 4 large sliding barn doors or shoji screens between master bedroom and craft room -  | $1,200 | $3,000 |
@@ -113,8 +109,16 @@ Loren's uncle may build screens. Also considering other sliding wall options.<br
 <br>
 
 
+## Phase 11 - Master Bathroom and Laundry Area
 
-## Phase 11 - Grey Water System
+||||
+|---|---|---|
+| Includes Shower and Tub | $5,000 | $9,500 |
+
+<a href="../bathroom/samples/img/mirror-window-rect.jpg"><img src="../bathroom/samples/img/mirror-window-rect.jpg" style="width:100%; max-width:400px"></a><br>
+
+
+## Phase 12 - Grey Water System
 
 2 attic grey water tanks will be used for BOTH toilet flushing and watering the yard.  
 3 rain barrel tanks below the porch steps will be pumped into the 2 attic tanks.  
@@ -128,15 +132,10 @@ Loren's uncle may build screens. Also considering other sliding wall options.<br
 
 
 
+## Master and Attic Addtion Total
 
-<br>
 <div id="totals"></div>
 <br>
----
 
-
-## Master Bathroom
-
-<a href="../bathroom/samples/img/mirror-window-rect.jpg"><img src="../bathroom/samples/img/mirror-window-rect.jpg" style="width:100%; max-width:400px"></a><br>
 
 [Home](../) | [Phases](../phases/)
