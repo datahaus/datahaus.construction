@@ -325,6 +325,10 @@ Two exterior mini-split units will be added in a later phase.
 <a href="../phases/img/AC/AC-units.jpg"><img src="../phases/img/AC/AC-units.jpg" style="width:100%; max-width:1200px"></a>  
 <br><br>
 
+Pergola for jasmine will be added during [Ongoing Projects](../projects) phase:  
+
+<a href="../phases/img/AC/AC-enclosure.jpg"><img src="../phases/img/AC/AC-enclosure.jpg" style="width:100%; max-width:1200px"></a>  
+<br>
 
 
 <br>
