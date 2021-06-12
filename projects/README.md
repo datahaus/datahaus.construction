@@ -1,6 +1,6 @@
 # Ongoing Projects
 
-Following [upstairs projects](../upstairs/)
+Most would be after [upstairs projects](../upstairs/)
 
 
 ## Repointing Bricks
@@ -96,7 +96,7 @@ Compression of north wall causing plaster to bulge:
 |---|---|---|
 | Existing front porches:  New ceilings with recessed lighting, dimmer. Remove 2 extra columns by bricks and add 2x11 in ceiling. Add/update molding and trim where damaged or missing.  | $800 | $3,000 |
 
-<br>Nice option if we ever put screens on a porch:
+<br>Nice option if we ever screen one of the porches:
 
 <a href="https://www.houzz.com/photos/historic-whole-house-renovation-screened-porch-craftsman-porch-atlanta-phvw-vp~3849435"><img src="../porch/img/porch.jpg" style="width:100%; max-width: 1200px"></a>
 
