@@ -45,4 +45,6 @@
 
 <br>
 
-The patio is the lower level of the [full addition](../addition)
+The patio is the lower level of the [Master Addition](../addition)  
+
+Next: [Kitchen](../kitchen) and [Ongoing](../projects)
