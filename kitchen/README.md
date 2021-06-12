@@ -57,21 +57,20 @@ After bumpout of exterior wall and addition of new north windows:
 
 
 
-## Drywall, Interior Trim, Interior Painting, Stairway Completion, Interior Doors
+## Drywall, Interior Trim, Interior Painting, Interior Doors
 ||||
 |---|---|---|
 | Strengthen or pivot pulldown stairway opening after moving water heater. | $200 | $400 |
+| &nbsp; |||
 | **Drywall and Painting** | | |
 | Expand window opening into doorway to upstairs laundry area | $200 | $800 |
-| Drywall new addition, kitchen and craftroom | $3,000 | $5,000 |
-| Interior painting | $2,000 | $5,500 |
+| Drywall kitchen and craftroom | $500 | $1,200 |
+| Interior painting | $800 | $1,500 |
 | Switch and plug covers | $400 | $800 |
 | &nbsp; |||
 | **Interior Trim and Door Carpentry** | | |
-| Build bathroom door frame from our wood trim collection. Hang door. Use 1 of 5 doors in attic | $500 | $800 |
-| Hang additional doors currently in attic | $800 | $1,200 |
-| Large sliding bathroom door | $800 | $1,200 |
-| Door Hardware - Repair/upgrade doorknobs - Front door, bedroom, upstairs bathroom | $400 | $800 |
+| Interior Trim | $400 | $800 |
+| Door Hardware - Repair/upgrade doorknobs - Front door, souteast bedroom | $400 | $800 |
 
 
 ||||

@@ -121,6 +121,15 @@ Loren's uncle may build sliding doors. Looking for more of a barn door style.<br
 | Tile in upstairs shower within new bathroom | $800 | $1,200 |
 | Tile in downstairs kitchen | $800 | $1,200 |
 | Tile in craftroom | $800 | $1,200 |
+| &nbsp; |||
+| **Drywall and painting** | | |
+| Drywall new addition, kitchen and craftroom | $3,000 | $5,000 |
+| Interior painting | $800 | $1,500 |
+| &nbsp; |||
+| **Carpentry** | | |
+| Build bathroom door frame from our wood trim collection. Hang door. Use 1 of 5 doors in attic | $500 | $800 |
+| Hang additional doors currently in attic | $800 | $1,200 |
+| Large sliding bathroom door | $800 | $1,200 |
 
 <a href="../bathroom/samples/img/mirror-window-rect.jpg"><img src="../bathroom/samples/img/mirror-window-rect.jpg" style="width:100%; max-width:400px"></a><br>
 
