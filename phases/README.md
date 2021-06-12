@@ -328,6 +328,7 @@ Two exterior mini-split units will be added in a later phase.
 
 
 <br>
+## Bathroom, Basement, Side Bumpout Total
 <div id="totals"></div>
 <br>
 
