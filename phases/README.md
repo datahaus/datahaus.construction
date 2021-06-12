@@ -29,12 +29,12 @@ and [BankRates](https://www.bankrate.com/mortgages/mortgage-rates/?mortgageType=
 
 ## Planning
 
-- Prepare and submit plans to city using Sketchup where practical.
+- Prepare and submit plans to city. Use Sketchup work where practical.
 
 
 | | Min | Max |
 |---|---|---|
-| Ongoing pre-construction Planning. Work with engineers to finalize material orders. | $2,500 | $12,500 |
+| Planning and plan submission. Work with engineers to finalize material orders. | $2,500 | $12,500 |
 
 ## New Downstairs Bathroom
 
