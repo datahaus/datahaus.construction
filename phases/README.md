@@ -24,7 +24,7 @@ and [BankRates](https://www.bankrate.com/mortgages/mortgage-rates/?mortgageType=
 - 2021 - [Downstairs Kitchen and Craftroom](../kitchen) - Counters and cabinets in downstairs kitchen, craftroom and new pantry ($45,000)  
 - 2022 - [Patio](../patio/) - Mass timber over outdoor kitchen ($15,000)  
 - 2023 - [Ongoing Projects](../projects/) - Solar, entrance room, move electric boxes, elevator ($70,000)
-- 2027 - [Master and Attic Addition](../addition/) - Master bedroon, master bathroom, attic shed roofs, grey water ($150,000)  
+- 2028 - [Master and Attic Addition](../addition/) - Master bedroon, master bathroom, attic shed roofs, grey water ($150,000)  
 
 
 ## Planning
