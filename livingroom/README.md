@@ -59,15 +59,6 @@ Design south windows to have wide sill. Italian country design. Not too orange. 
 Might put an arch at top of window behind tub by master bedroom.
 
 
-## A passive home addition
-
-Wrapped in extra insulation, from floor to roof  
-Triple pane windows that should feel just as warm to the touch as the walls  
-
-[Passive House Institute of the U.S.](https://www.phius.org/)  
-
-Also, [inicel](https://www.sweetcomposites.com/Minicel.html)<!-- From Rob Macks -->
-
 <a name="minisplits">&nbsp;</a>
 
 ## Mini Split - Heating and Cooling

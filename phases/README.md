@@ -137,7 +137,18 @@ Atlanta-based Thomas Concrete has been using the Canadian CarbonCure system sinc
 "CarbonCure involves injecting carbon dioxide captured from various other industrial processes into concrete during the mixing process. A chemical reaction would “mineralize” that carbon dioxide, which would have the added benefit of making the concrete compressively stronger." “We have seen no downsides to using CarbonCure,”  Drew Millwood, the Thomas Concrete technician who oversaw the Kendeda job, writes: “It allows for cement reduction in any mix it is used in and provides strength at or above design. No cost increase is involved in a mix containing CO2 as the savings from cement reduction offset the cost of CO2 delivery. Equipment costs are easily recouped due to the savings.” - [source](https://livingbuilding.kendedafund.org/2019/07/16/carboncure/)  
 
 
-## Move Electric Box
+## Basement as a passive home addition
+
+Insulated from floor to roof.  
+The basement will use triple pane windows that should feel just as warm to the touch as the walls  
+
+[Passive House Institute of the U.S.](https://www.phius.org/)  
+
+Also, [inicel](https://www.sweetcomposites.com/Minicel.html) - From Rob Macks  
+
+Could air be cycled under slab to chill?  
+
+## Move Exterior Electric Box
 
 | | | |
 |---|---|---|
