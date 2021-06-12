@@ -1,4 +1,4 @@
-# Full Addition
+# Master and Attic Addtion
 
 ## Phase 6 - Framework, Roof, Insulation, Windows, Siding
 
@@ -92,7 +92,7 @@ To get quote from:<br>
 | Build 1 step to new bathrooms | $400 | $600 |
 | &nbsp; |||
 | **Sliding Wall - 4 Door Panels** | | |
-| 4 large sliding barn doors or shoji screens between master bedroom and craft room -  | $1,200 | $3,000 |
+| 4 large sliding barn doors or shoji screens between master bedroom and craft room  | $1,200 | $5,000 |
 
 <!--
 	Triple Barn Sliding Brown Doors 90"x96" with 14FT Rails
@@ -101,7 +101,7 @@ To get quote from:<br>
 -->
 
 <br>
-Loren's uncle may build screens. Also considering other sliding wall options.<br>  
+Loren's uncle may build sliding doors. Looking for more of a barn door style.<br>  
 
 <a href="../bedroom/img/shoji/triple-barn-doors-amazon.jpg"><img src="../bedroom/img/shoji/triple-barn-doors-amazon.jpg" style="max-height:400px"></a>
 <a href="../bedroom/img/shoji/doors.jpg"><img src="../bedroom/img/shoji/doors.jpg" style="max-height:400px"></a>
@@ -113,7 +113,14 @@ Loren's uncle may build screens. Also considering other sliding wall options.<br
 
 ||||
 |---|---|---|
-| Includes Shower and Tub | $5,000 | $9,500 |
+| Fixtures in new bathroom, shower, tub, toilet, shelf-cabinets and laundry area | $5,000 | $8,000 |
+| [Mirror in front of window](https://www.houzz.com/photos/mirror-in-front-of-window-phbr0lbl-bl~l_51234) | $400 | $800 |
+| Wall cubbies in master bedroom - north wall | $500 | $800 |
+| &nbsp; |||
+| **Tile projects** | | |
+| Tile in upstairs shower within new bathroom | $800 | $1,200 |
+| Tile in downstairs kitchen | $800 | $1,200 |
+| Tile in craftroom | $800 | $1,200 |
 
 <a href="../bathroom/samples/img/mirror-window-rect.jpg"><img src="../bathroom/samples/img/mirror-window-rect.jpg" style="width:100%; max-width:400px"></a><br>
 

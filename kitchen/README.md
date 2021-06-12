@@ -84,26 +84,9 @@ After bumpout of exterior wall and addition of new north windows:
 | Craft room - Undercounter fridge | $1,400 | $2,000 |
 
 
-## Tile and counter projects
-||||
-|---|---|---|
-| **New bathroom and laundry area** | | |
-| Fixtures in new bathroom, shelf-cabinets and laundry area | $10,000 | $15,000 |
-| [Mirror in front of window](https://www.houzz.com/photos/mirror-in-front-of-window-phbr0lbl-bl~l_51234) | $400 | $800 |
-| Wall cubbies in master bedroom - north wall | $500 | $800 |
-| &nbsp; |||
-| **Tile projects** | | |
-| Tile in upstairs shower within new bathroom | $800 | $1,200 |
-| Tile in downstairs kitchen | $800 | $1,200 |
-| Tile in craftroom | $800 | $1,200 |
-
-
 ## Craftroom and Kitchen - Counters and Cabinets
 ||||
 |---|---|---|
-| **Craftroom counter and sink** | | |
-| Add new "L" shapped counter and cabinets with sink in craftroom. Tall cabinets on south side of craftroom.<br>(At this point, family will shift to using craftroom while downstairs kitchen is remodeled.) | $1,800 | $3,500 |
-| &nbsp; |||
 | **Downstairs Kitchen -  Remove hallway walls, Ceiling, Extend floor 3'** | | |
 | Deactivate existing downstairs kitchen plumbing, electricity, remove counters and remove wall behind sink (reuse windows) | $400 | $500 |
 | Remove wall above doorway, remove south side of hall closet, add framework | $400 | $800 |
@@ -112,11 +95,10 @@ After bumpout of exterior wall and addition of new north windows:
 | Extend downstairs kitchen hardwood floor surface 3' into bumpout and resurface floor with [PolyWhey® 3500 Satin](https://vermontnaturalcoatings.com/product/polywhey-3500-wood-floor-finish/) - PolyWhey 3500 has 65% less VOC content than the standard that most water-based finishes try to meet, while PolyWhey 2500 has 50% less. | $2,000 | $4,000 |
 | &nbsp; |||
 | **Downstairs Cabinetry** | | |
-| Downstairs kitchen - "L" shapped counter, maybe quartz. Cabinets including south wall, sink, hookup dishwasher | $7,000 | $15,000 |
+| Downstairs kitchen - Maybe quartz counter. Cabinets including south wall, sink, hookup dishwasher | $4,000 | $6,000 |
 | Downstairs kitchen oven, either a hood or vent | $1,200 | $4,000 |
-| Cabinet-size freezer for new kitchen - Might place upstairs as island initially | $1,400 | $1,800 |
 | &nbsp; |||
-| **Upstairs Cabinetry** | | |
+| **Upstairs Craftroom Cabinetry** | | |
 | Upstairs craft room - cabinet on south wall | $1,500 | $1,800 |
 | Craft room wood shelf | $400 | $600 |
 
