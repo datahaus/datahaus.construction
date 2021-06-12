@@ -33,6 +33,8 @@
 <a href="../livingroom/img/grey-beams.jpg"><img src="../livingroom/img/grey-beams.jpg" class="floating"></a>
 <a href="../livingroom/img/REI.jpg"><img src="../livingroom/img/REI.jpg" class="floating"></a>  
 
+<div style="clear:both"></div>
+
 <a href="https://model.earth/community/projects/wood/">Mass Timber Panels (Dowel or Nail Laminated)</a>  
 [Kendeda Living Building](https://livingbuilding.gatech.edu/) - [Kendeda News](https://livingbuilding.gatech.edu/news/wsj-georgia-techs-kendeda-building-pits-latest-sustainable-tech-against-atlantas-swampy-climate)  
 

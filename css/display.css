@@ -38,3 +38,16 @@ td:nth-child(1) {
 #totaltable td {
   border-bottom:none
 }
+
+.floating {
+  width:47%;
+  max-width: 100%;
+  float:left;
+  padding-right:30px;
+  margin-bottom:30px;
+}
+.halfsies {
+  width:47%;
+  float:left;
+  padding-right:30px;
+}
