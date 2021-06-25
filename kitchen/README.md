@@ -11,7 +11,7 @@ Same location as current kitchens. North wall moved 3' outward. Existing pantrie
 
 ## Downstairs Kitchen
 
-- Downstairs kitchen, counters and cabinets
+- Downstairs gourmet kitchen, counters and cabinets
 - The old bathroom will be converted to a pantry
 
 <a href="img/kitchen.jpg"><img src="img/kitchen.jpg" style="width:100%; max-width: 1200px"></a><br><br>  

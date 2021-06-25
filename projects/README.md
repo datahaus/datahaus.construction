@@ -101,10 +101,12 @@ Compression of north wall causing plaster to bulge:
 <a href="https://www.houzz.com/photos/historic-whole-house-renovation-screened-porch-craftsman-porch-atlanta-phvw-vp~3849435"><img src="../porch/img/porch.jpg" style="width:100%; max-width: 1200px"></a>
 
 
-## Fire Pit
+## Fire Pit, Sprinkler System, Outdoor lighting <!-- The items below add to sale value, also "Dedicated office, home gym, roof deck, outdoor heater, no-touch appliances " -->
 ||||
 |---|---|---|
 | Add fire pit in back yard | $800 | $1,000 |
+| Smart sprinkler system | $800 | $3,000 |
+| Outdoor lighting | $800 | $2,000 |
 
 
 ## Elevator
