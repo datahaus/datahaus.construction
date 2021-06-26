@@ -3,9 +3,12 @@
 
 - Mass timber surrounding patio is framework for future addition    
 
-<a href="../patio/img/patio-south.jpg"><img src="../patio/img/patio-south.jpg" style="width:100%; max-width: 1000px"></a><br><br>
-
 <a href="../exterior/img/rear/patio-frame.jpg"><img src="../exterior/img/rear/patio-frame.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
+
+<a href="../patio/img/patio-south.jpg"><img src="../patio/img/patio-south.jpg" style="width:100%; max-width: 1000px"></a><br><br><br>
+
+<a href="../patio/img/patio-drainage.jpg"><img src="../patio/img/patio-drainage.jpg" style="width:100%; max-width: 1000px"></a><br>
+Patio drainage under west steps.<br><br> 
 
 ||||
 |---|---|---|
@@ -46,6 +49,8 @@
 
 
 <br>
+
+<a href="../patio/img/patio-and-gate.jpg"><img src="../patio/img/patio-and-gate.jpg" style="width:100%; max-width: 1000px"></a><br>
 
 The patio is the lower level of the [Master Addition](../addition)  
 
