@@ -146,6 +146,9 @@ Loren's uncle may build sliding doors. Looking for more of a barn door style.<br
 | Rain barrels and pipe hookup under south steps | $1,000 | $2,500 |
 | Install tiny door, install tiny sunburst (Abbey) |  |  |
 
+<br>
+
+<a href="../basement/img/greywater-tanks.jpg"><img src="../basement/img/greywater-tanks.jpg" style="width:100%; max-width: 1200px"></a><br>Grey water tanks under porch and in basement<br><br>
 
 
 ## Master and Attic Addtion Total
