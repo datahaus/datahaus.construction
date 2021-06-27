@@ -150,8 +150,12 @@ Loren's uncle may build sliding doors. Looking for more of a barn door style.<br
 
 ## Master and Attic Addtion Total
 
+Excludes [basement](../phases/) and [first floor mass timber](../patio/).  
+<br>
+
 <div id="totals"></div>
 <br>
 
+<a href="../exterior/img/southwest.jpg"><img src="../exterior/img/southwest.jpg" style="width:100%; max-width: 1200px"></a><br><br>
 
 [Home](../) | [Phases](../phases/)
