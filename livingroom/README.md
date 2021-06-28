@@ -90,7 +90,7 @@ Two existing exterion HVAC units will also reside under a grate on the north sid
 
 <a href="../kitchen/img/kitchen-mini-split.jpg"><img src="../kitchen/img/kitchen-mini-split.jpg" style="width:100%; max-width: 1200px"></a><br><br>
 
-Air movement volumes delivered by a mini-split give no advantage to putting near floor, unless maybe you have a vented crawlspace.  Subsequently we should insulate kitchen floor in crawlspace. 
+Air movement volumes delivered by a mini-split give no advantage to putting near floor, unless you have a vented crawlspace.  We will [insulate kitchen floor](../projects/) in crawlspace. 
 
 
 ## Tankless Booster

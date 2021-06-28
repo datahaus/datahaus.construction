@@ -102,13 +102,11 @@ After bumpout of exterior wall and addition of new north windows:
 | Craft room wood shelf | $400 | $600 |
 
 <br><br>
-<a href="../kitchen/img/kitchen.jpg"><img src="../kitchen/img/kitchen.jpg" style="width:100%; max-width: 1200px"></a><br>
-<a href="../kitchen/">More Kitchen Images</a><br>
 
 
 
 Spot lights on walls (adjustable eyeball). Hookups for 2 or 3 pendant lights over island.
-No divider in sink. Concealed trash and recycling bin pull out to left of sink.  
+No divider in sink. Concealed trash and recycling bin pull-out to right of sink.  
 
 <!--“Bridge style” sink faucet - pipe connects faucets  -->
 <!--

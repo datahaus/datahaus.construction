@@ -5,7 +5,9 @@
 
 <a href="../exterior/img/rear/patio-frame.jpg"><img src="../exterior/img/rear/patio-frame.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
 
-<a href="../patio/img/patio-south.jpg"><img src="../patio/img/patio-south.jpg" style="width:100%; max-width: 1000px"></a><br><br><br>
+<a href="../patio/img/patio-south.jpg"><img src="../patio/img/patio-south.jpg" style="width:100%; max-width: 1000px"></a><br><br>
+Patio roof built from nail-laminated reclaimed 2x4s.
+<br><br>
 
 <a href="../patio/img/patio-drainage.jpg"><img src="../patio/img/patio-drainage.jpg" style="width:100%; max-width: 1000px"></a><br>
 Patio drainage under west steps.<br><br> 
@@ -31,7 +33,6 @@ Patio drainage under west steps.<br><br>
 
 
 <h2>Mass Timber Examples</h2>
-
 
 <a href="../livingroom/img/grey-beams.jpg"><img src="../livingroom/img/grey-beams.jpg" class="floating"></a>
 <a href="../livingroom/img/REI.jpg"><img src="../livingroom/img/REI.jpg" class="floating"></a>  

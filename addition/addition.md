@@ -16,7 +16,7 @@
 ||||
 |---|---|---|
 | **Framework** | | |
-| Framework including mass timber columns and attic roof (plus $10,000 in "[projects](../projects/)")<br>Use wood removed from west side of roof to increase northeast height about 1.5 feet | $10,000 | $35,000 |
+| Framework including mass timber columns and attic roof (plus $10,000 timber in "[patio phase](../projects/)").<br>Use wood removed from west side of roof to increase northeast roof height 1.5 feet. | $10,000 | $35,000 |
 | Remove pulldown attic stairway while closing opening in joists. Retain attic stairs for temporary use within master bedroom. | $800 | $1,200 |
 | Create north balcony by extending joists over bumpout. | $3,000 | $4,500 |
 | Porch railings for attic porch | $800 | $1,200 |

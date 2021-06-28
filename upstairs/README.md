@@ -53,14 +53,16 @@ Green wall with gas pipe added in prior phase:
 | Add new lights - Craft room and Upstairs Bathroom. Upstairs bathroom recessed lights and vanity light  | $400 | $1,800 |
 
 
+<br>
+<div id="totals"></div>
+<br>
+
+
 ## Craft Room
 
 Craftroom updates will occur during [kitchen updates](../kitchen)
 
 
-<br>
-<div id="totals"></div>
-<br>
 
 
 <br>

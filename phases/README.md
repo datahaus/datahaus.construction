@@ -262,7 +262,7 @@ Cement under sidewalk bricks:<br>
 
 <br>
 
-<a href="../exterior/img/waterflow.jpg"><img src="../exterior/img/waterflow.jpg" style="width:100%; max-width:1200px"></a>
+<a href="../exterior/img/porch-rail.jpg"><img src="../exterior/img/porch-rail.jpg" style="width:100%; max-width:1200px"></a>
 
 For reference:  
 
