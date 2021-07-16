@@ -1,5 +1,7 @@
-
 # Basement
+
+Insulation  
+2" foam under concrete - Extruded Poluystyrene Foam Board 2" x 4" x 8"  
 
 Fox Blocks - part of a steel-reinforced wall assembly
 Hurricane proof homes.
